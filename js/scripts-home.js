@@ -1,5 +1,4 @@
 $(document).ready(function() {
-    console.log('Home');
     // if( gameProviders ) {
         
     //     console.log(typeof gameProviders);
@@ -22,7 +21,7 @@ $(document).ready(function() {
 	$(document).on('click', '.provider-list .btn-section-bg', function(e) {
 		var $this = $(this),
             $target = $this.attr('data-target');
-        console.log('Provider = '+$target);
+        
 		$('.provider-list .btn-section-bg').removeClass('active');
 		$this.addClass('active');
 		if( $this.hasClass('row-second') ) {
@@ -38,7 +37,6 @@ $(document).ready(function() {
         var $html = '';
         if( targetProvider ) {
             const games = targetProvider.games;
-            console.log('Games = '+games);
             for (const [key, game] of Object.entries(games)) {
                 $html += `
                 <div class="col-2 mt-2 px-2">
