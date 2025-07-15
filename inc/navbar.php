@@ -56,15 +56,15 @@ $menu_items = [
                     <div class="quad-inner"></div>
                 </div>
             </button>
-            <a href="/" class="navbar-brand">
+            <a href="<?php echo $site_base_url;?>" class="navbar-brand">
                 <span class="d-none">Home</span>
                 <img src="<?php echo $site_base_url;?>images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit">
             </a>
             <div></div>
             <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                 <div class="navbar-collapse-inner">
-                    <h4 class="d- d-xl-none w-100 p-4">Menu</h4>
-                    <button type="button" class="navbar-close d-xl-none" aria-label="Close menu">
+                    <h4 class="d-block text-center p-4 py-2 title-logo"><a href="<?php echo $site_base_url;?>" class="d-block"><img src="<?php echo $site_base_url;?>images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit mx-auto"></a></h4>
+                    <button type="button" class="navbar-close" aria-label="Close menu">
                         <span class="d-none">Close Mobile Menu</span>
                     </button>
                     <ul class="navbar-nav nav w-100 w-xl-auto p-4 px-0 px-md-4 p-xl-0">
