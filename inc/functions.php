@@ -2,9 +2,11 @@
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
     $site_base_url = 'https://lpk-777.com/';
+    $site_base_url_en = 'https://lpk-777.com/en/';
 }
 else {
     $site_base_url = 'http://localhost/lpk777/';
+    $site_base_url_en = 'http://localhost/lpk777/en/';
 }
 $site_title = 'LPK777';
 if( !empty($page_name) ) {
@@ -15,9 +17,101 @@ else {
 }
 $page_title = $page_prefix.' '.$site_title;
 $page_url = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
-
 $version = '1.0.'.time();
-
+$menu_items = [
+    [
+        "title" => "Slot",
+        "url" => "slot",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Muat Turun Aplikasi",
+        "url" => "muat-turun-apk",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Program VIP di LPK777",
+        "url" => "vip",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Kaedah Pembayaran",
+        "url" => "kaedah-pembayaran",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Bonus & Promosi",
+        "url" => "bonus-promosi",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Perjudian Bertanggungjawab",
+        "url" => "perjudian-bertanggungjawab ",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Dasar Privasi",
+        "url" => "dasar-privasi",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Terma Syarat",
+        "url" => "terma-syarat",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Hubungi Kami",
+        "url" => "hubungi-kami",
+        "target" => "_self",
+    ],
+];
+$menu_items_en = [
+    [
+        "title" => "Slot",
+        "url" => "slot",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Download APK",
+        "url" => "download-apk",
+        "target" => "_self",
+    ],
+    [
+        "title" => "VIP Programme in LPK777",
+        "url" => "vip",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Payment Method",
+        "url" => "payment-method",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Bonus & Promotion",
+        "url" => "bonus-promotion",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Responsible Gaming",
+        "url" => "responsible-gaming",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Privacy Policy",
+        "url" => "privacy-policy",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Terms & Conditions",
+        "url" => "termas-conditions",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Contact Us",
+        "url" => "contact-us",
+        "target" => "_self",
+    ],
+];
 $gameProviders = [
     "slot" => [
         "title" => "Web Slots",
@@ -288,5 +382,36 @@ $gameProviders = [
         ]
     ],
 ];
-
+$top_brands = [
+    "win4u" => [
+        "title" => "WIN4U",
+        "description" => "120% First Deposit Bonus",
+        "url" => "https://www.win4u.asia/m/register?affiliateCode=win4u0010",
+    ],
+    "winboleh" => [
+        "title" => "Winboleh",
+        "description" => "Welcome bonus RM888 140%",
+        "url" => "http://mplanding2.winboleh1.com/",
+    ],
+    "kaya88" => [
+        "title" => "KAYA88",
+        "description" => "Welcome bonus 60%",
+        "url" => "https://kayabet88.com/register/referer/86b284c3b1",
+    ],
+    "klwin" => [
+        "title" => "KLWIN",
+        "description" => "First deposit<br/>30 dpt 60<br/>100 dpt 200",
+        "url" => "https://klwin111.com/register/referer/c6a6dd69be",
+    ],
+    "winmy" => [
+        "title" => "WINMY",
+        "description" => "DAILY FREE CREDIT UP TO 88.88",
+        "url" => "https://winmy.asia/register/referer/a6e0ace56f",
+    ],
+    "kaya96" => [
+        "title" => "Kaya96",
+        "description" => "20% weekend bonus",
+        "url" => "https://kaya96.com/register/referer/08fadc27ba",
+    ],
+];
 ?>

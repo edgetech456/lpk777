@@ -1,8 +1,8 @@
 <?php
-$page_name = "Hubungi Kami";
-$page_slug = 'hubungi-kami';
+$page_name = "Contact Us";
+$page_slug = 'contact-us';
 $page_thumbnail = "https://example.com/image.jpg";
-include '../inc/functions.php';
+include '../../inc/functions.php';
 ?>
 <!DOCTYPE html>
 <html lang="en-MY" dir="ltr">
@@ -37,8 +37,8 @@ include '../inc/functions.php';
         <link rel="canonical" href="https://lpk777.org/">
         <link rel="alternate" hreflang="x-default" href="https://lpk777.org/">
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
-        <base href="<?php echo $site_base_url;?>">
-        <?php include '../inc/stylesheet.php';?>
+        <base href="<?php echo $site_base_url_en;?>">
+        <?php include '../../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -59,13 +59,12 @@ include '../inc/functions.php';
     <body>
         <?php include '../inc/navbar.php';?>
         <main class="pt-0" id="">
-            <?php include '../inc/marquee.php';?>
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Hubungi Kami – Kami Sedia Membantu</h1>
+                                <h1>Contact Us – We're ready to assist you</h1>
                                 <p>Di <strong>LPK777</strong>, kepuasan pelanggan dan sokongan yang boleh dipercayai adalah keutamaan kami. Sama ada anda baru dalam permainan slot dalam talian atau ahli VIP berpengalaman, kami bersedia membantu dalam apa jua perkara—daripada pertanyaan akaun, penjelasan bonus, sokongan teknikal hinggalah isu transaksi yang selamat.</p>
                                 <p>&nbsp;</p>
                                 <p>Pasukan <strong>khidmat pelanggan kami tersedia 24/7</strong>, dan kami menyediakan pelbagai saluran komunikasi supaya anda tidak dibiarkan menunggu ketika memerlukan bantuan.</p>
@@ -73,21 +72,21 @@ include '../inc/functions.php';
                                 <p>Sila hubungi kami melalui mana-mana saluran berikut:</p>
                                 <p>&nbsp;</p>
                                 <h4>Telegram</h4>
-                                <p>(Akan datang...)</p>
+                                <p>(Coming soon...)</p>
                                 <p>&nbsp;</p>
                                 <h4>Live Chat</h4>
                                 <p>(Tersedia melalui laman web dan aplikasi mudah alih)</p>
                                 <p>&nbsp;</p>
                                 <h4>Facebook</h4>
-                                <p>(Akan datang...)</p>
+                                <p>(Coming soon...)</p>
                                 <p>&nbsp;</p>
-                                <h4>Lokasi</h4>
+                                <h4>Location</h4>
                                 <p>Level 33A, The Intermark, 348 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia</p>
                                 <p>&nbsp;</p>
-                                <h4>Emel</h4>
+                                <h4>Email</h4>
                                 <p><strong><a href="mailto:support@lpk777.org">support@lpk777.org</a></strong></p>
                                 <p>&nbsp;</p>
-                                <h4>Telefon</h4>
+                                <h4>Telephone</h4>
                                 <p><strong><a href="tel:+60 11-1234 5678">+60 11-1234 5678</a></strong></p>
                             </div>
                         </div>
@@ -95,6 +94,6 @@ include '../inc/functions.php';
                 </div>
             </section>
         </main>
-        <?php include '../inc/footer.php';?>
+        <?php include '../../inc/footer.php';?>
     </body>
 </html>

@@ -2,13 +2,13 @@
 $page_name = "Home";
 $page_slug = 'home';
 $page_thumbnail = "https://example.com/image.jpg";
-include 'inc/functions.php';
+include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
 <html lang="en-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
+        <title>LPK777 – Online Slot & Fast Cash Out Website in Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
@@ -38,7 +38,7 @@ include 'inc/functions.php';
         <link rel="alternate" hreflang="x-default" href="https://lpk777.org/">
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
         <base href="<?php echo $site_base_url;?>">
-        <?php include 'inc/stylesheet.php';?>
+        <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
         "@context": "https://schema.org",
@@ -202,26 +202,25 @@ include 'inc/functions.php';
     <body>
         <?php include 'inc/navbar.php';?>
         <main class="pt-0" id="">
-            <?php include 'inc/marquee.php';?>
             <section class="py-0" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="d-flex flex-wrap p-3 userprofile-container w-100 mt-3" id="userProfileModule">
                                 <div class="d-flex flex-wrap p-0 m-0 w-100 justify-content-between mb-3">
-                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="<?php echo $site_base_url;?>">Daftar</a>
-                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="<?php echo $site_base_url;?>">Log Masuk</a>
+                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="<?php echo $site_base_url;?>">Join</a>
+                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="<?php echo $site_base_url;?>">Login</a>
                                 </div>
                                 <div class="d-flex m-0 p-0 w-100">
                                     <div class="col-7 px-0 pe-2">
-                                        <div class="text-0-75">Main Baki:</div>
+                                        <div class="text-0-75">Main Balance:</div>
                                         <div class="text-1-3 text-weight-700 text-primary">MYR&nbsp; <span class="setWallet-homepage d-inline-block" style="width: max-content">0.00</span></div>
                                         <div class="d-flex m-0 p-0 text-0-75">
-                                            <div class="col-6 px-0">Depo Minimum</div>
+                                            <div class="col-6 px-0">Min Depo</div>
                                             <div class="col px-0">:&nbsp;MYR&nbsp;30.00</div>
                                         </div>
                                         <div class="d-flex m-0 p-0 text-0-75">
-                                            <div class="col-6 px-0">Pengeluaran Minimum</div>
+                                            <div class="col-6 px-0">Min Withdraw</div>
                                             <div class="col px-0">:&nbsp;MYR&nbsp;50.00</div>
                                         </div>
                                     </div>
@@ -249,7 +248,7 @@ include 'inc/functions.php';
                                             <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://kayabet888.com/login">
                                                 <div class="d-flex align-items-center">
                                                     <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-refresh.png" alt="token" style="max-width: 11%">
-                                                    <span class="col px-0 ps-2 text-0-9 text-weight-600">Segar Semula</span>
+                                                    <span class="col px-0 ps-2 text-0-9 text-weight-600">Refresh</span>
                                                 </div>
                                             </a>
                                         </div>
@@ -260,7 +259,7 @@ include 'inc/functions.php';
                     </div>
                 </div>
             </section>
-            <section class="py-0" id="">
+            <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
