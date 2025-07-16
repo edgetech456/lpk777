@@ -1,6 +1,7 @@
 <?php
 $page_name = "Responsible Gaming";
 $page_slug = 'perjudian-bertanggungjawab ';
+$page_index = 7;
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>

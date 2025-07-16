@@ -1,6 +1,7 @@
 <?php
 $page_name = "Hubungi Kami";
 $page_slug = 'hubungi-kami';
+$page_index = 10;
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>

@@ -89,7 +89,7 @@ main {
     height: 100%;
     z-index: 9;
     transform: translateX(-100%);
-    transition: all 0.5s linear;
+    transition: all 0.35s linear;
 }
 #masthead .navbar-collapse.show {
     transform: translateX(0);
@@ -103,7 +103,7 @@ main {
     top: 0;
     left: 0;
     background: rgba(0, 0, 0, 0.6);
-    transition: all 0.3s linear;
+    transition: all 0.25s linear;
     z-index: -1;
 }
 #masthead .navbar-collapse::before, #masthead .navbar-close {

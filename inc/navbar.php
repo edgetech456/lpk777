@@ -31,9 +31,15 @@
                         <?php
                         }
                         ?>
+                        <?php
+                        if( isset($language_switcher) ) : // To be remove to turn on
+                        ?>
                         <li class="nav-item nav-item-language">
                             <a href="javascript:void(0)" class="nav-link" id="switch-langauge">Bahasa</a>
                         </li>
+                        <?php
+                        endif; // To be remove to turn on
+                        ?>
                     </ul>
                 </div>
             </div>

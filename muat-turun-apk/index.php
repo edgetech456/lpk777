@@ -1,6 +1,7 @@
 <?php
 $page_name = "Muat Turun APK";
 $page_slug = 'muat-turun-apk';
+$page_index = 3;
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>

@@ -1,6 +1,7 @@
 <?php
 $page_name = "Dasar Privasi";
 $page_slug = 'dasar-privasi';
+$page_index = 8;
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>

@@ -1,6 +1,7 @@
 <?php
 $page_name = "Terms & Conditions";
 $page_slug = 'terms-conditions';
+$page_index = 9;
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>

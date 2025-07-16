@@ -1,6 +1,7 @@
 <?php
 $page_name = "Bonus & Promosi";
 $page_slug = 'bonus-promosi';
+$page_index = 6;
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>

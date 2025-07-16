@@ -1,6 +1,7 @@
 <?php
 $page_name = "Home";
 $page_slug = 'home';
+$page_index = 1;
 $page_thumbnail = "https://example.com/image.jpg";
 include 'inc/functions.php';
 ?>

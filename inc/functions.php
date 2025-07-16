@@ -18,6 +18,17 @@ else {
 $page_title = $page_prefix.' '.$site_title;
 $page_url = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 $version = '1.0.'.time();
+$language = 'bm';
+$available_languages = [
+    "bm" => [
+        "title" => "Bahasa Malaysia", 
+        "icon" => "icon-flag-sm-bm.png", 
+    ],
+    "en" => [
+        "title" => "English", 
+        "icon" => "icon-flag-sm-en.png", 
+    ]
+];
 $menu_items = [
     [
         "title" => "Slot",

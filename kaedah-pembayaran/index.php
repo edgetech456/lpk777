@@ -1,6 +1,7 @@
 <?php
 $page_name = "Payment Method";
 $page_slug = 'payment-method';
+$page_index = 5;
 $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
