@@ -95,6 +95,12 @@
     #masthead .nav-link, #masthead .dropdown-item {
         white-space: break-spaces;
     }
+    .responsive-table {
+        overflow-x: scroll;
+    }
+    .responsive-table table {
+        min-width: 600px;
+    }
 }
 @media (min-width: 768px) {
     .platform, .platform-inner {

@@ -35,6 +35,7 @@ body {
 }
 main, #masthead, #mastfoot{
     max-width: 768px;
+    width: 100%;
     margin: 0 auto;
 }
 main {
@@ -487,6 +488,9 @@ a, button, .btn, a.button, button.btn {
 .rtp-table table th:nth-child(3), .rtp-table table td:nth-child(3) {
     width: 30%;
 }
+.responsive-table {
+    margin-bottom: 12px;
+}
 .percent-bar {
     width: 100%;
     background-color: #00c0ff;
@@ -722,4 +726,12 @@ a, button, .btn, a.button, button.btn {
     100% {
         background-position: 0 0;
     }
+}
+.top-brand .col-title {
+    font-weight: 700;
+    padding-top: 10px;
+}
+.top-brand .klwin .col-desc p {
+    font-size: 0.75rem;
+    line-height: 1.4;
 }

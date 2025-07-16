@@ -466,52 +466,54 @@ include '../inc/functions.php';
                                     Sistem VIP terdiri daripada beberapa tahap. Bila anda bermain dan buat deposit, anda akan capai milestone yang menaikkan status anda.
                                 </p>
                                 <p>&nbsp;</p>
-                                <table class="table table-striped mb-0">
-                                    <thead>
-                                        <tr>
-                                            <th>Tahap</th>
-                                            <th>Keperluan</th>
-                                            <th>Cashback</th>
-                                            <th>Akses Bonus</th>
-                                            <th>Kelajuan Pengeluaran</th>
-                                            <th>Sokongan</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>Bronze</td>
-                                            <td>Permulaan</td>
-                                            <td>Asas</td>
-                                            <td>Bonus umum</td>
-                                            <td>Standard</td>
-                                            <td>Live chat</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Silver</td>
-                                            <td>Sederhana</td>
-                                            <td>Lebih tinggi</td>
-                                            <td>Promosi tersuai</td>
-                                            <td>Lebih pantas</td>
-                                            <td>Keutamaan</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Gold</td>
-                                            <td>Tinggi</td>
-                                            <td>Premium</td>
-                                            <td>Bonus VIP</td>
-                                            <td>24-jam keutamaan</td>
-                                            <td>Agen khas</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Platinum</td>
-                                            <td>Teratas</td>
-                                            <td>Maksimum</td>
-                                            <td>Ganjaran peribadi</td>
-                                            <td>Pemprosesan serta-merta</td>
-                                            <td>Pengurus VIP</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
+                                <div class="responsive-table">
+                                    <table class="table table-striped mb-0">
+                                        <thead>
+                                            <tr>
+                                                <th>Tahap</th>
+                                                <th>Keperluan</th>
+                                                <th>Cashback</th>
+                                                <th>Akses Bonus</th>
+                                                <th>Kelajuan Pengeluaran</th>
+                                                <th>Sokongan</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Bronze</td>
+                                                <td>Permulaan</td>
+                                                <td>Asas</td>
+                                                <td>Bonus umum</td>
+                                                <td>Standard</td>
+                                                <td>Live chat</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Silver</td>
+                                                <td>Sederhana</td>
+                                                <td>Lebih tinggi</td>
+                                                <td>Promosi tersuai</td>
+                                                <td>Lebih pantas</td>
+                                                <td>Keutamaan</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Gold</td>
+                                                <td>Tinggi</td>
+                                                <td>Premium</td>
+                                                <td>Bonus VIP</td>
+                                                <td>24-jam keutamaan</td>
+                                                <td>Agen khas</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Platinum</td>
+                                                <td>Teratas</td>
+                                                <td>Maksimum</td>
+                                                <td>Ganjaran peribadi</td>
+                                                <td>Pemprosesan serta-merta</td>
+                                                <td>Pengurus VIP</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
                                 <p class="fst-italic">
                                     Nota: Angka tepat mungkin berbeza. Semak papan pemuka VIP anda untuk kemas kini semasa.
                                 </p>
