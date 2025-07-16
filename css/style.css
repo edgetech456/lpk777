@@ -1,6 +1,6 @@
 :root {
-    --primary-yellow: #c29c4e;
-    --primary-purple: #772cbe;
+    --primary-sub: #c29c4e;
+    --primary-main: #772cbe;
     --primary-black: #1f1f1f;
     --primary-white: #fff;
     --text-default: #636363;
@@ -211,7 +211,7 @@ p, ul, ol {
 .text-editor li p a, .text-editor li p a:hover, 
 .text-editor li a, .text-editor li a:hover, .text-editor p a, .text-editor p a:hover, 
 .text-editor > p > a, .text-editor > p > a:hover, .text-editor > p > b > a, .text-editor > p > b > a:hover {
-    color: var(--primary-yellow);
+    color: var(--primary-sub);
 }
 .text-editor h1 > a:hover, .text-editor h2 > a:hover, .text-editor h3 > a:hover, .text-editor h4 > a:hover, .text-editor h5 > a:hover, .text-editor h6 > a:hover,
 .text-editor li p a:hover, .text-editor li a:hover, .text-editor > p > a:hover, .text-editor > p > b > a:hover {
@@ -336,7 +336,7 @@ a, button, .btn, a.button, button.btn {
     box-sizing: border-box;
     color: #fff;
     background-color: #1d1c1c;
-    background-color: var(--primary-purple);
+    background-color: var(--primary-main);
     color: var(--primary-white);
 }
 .marquee span {
@@ -526,17 +526,17 @@ a, button, .btn, a.button, button.btn {
 }
 .btn-section-bg {
     background: #292421;
-    border: .5px solid var(--primary-purple);
+    border: .5px solid var(--primary-main);
 }
 .btn-section-bg.active:not(.amount_options) {
-    background-color: var(--primary-purple) !important;
+    background-color: var(--primary-main) !important;
     color: var(--primary-white)!important;
 }
 .text-primary {
-    color: var(--primary-purple) !important;
+    color: var(--primary-main) !important;
 }
 .text-secondary {
-    color: var(--primary-yellow) !important;
+    color: var(--primary-sub) !important;
 }
 .btn-style {
     padding: 8px 10px;
@@ -546,7 +546,7 @@ a, button, .btn, a.button, button.btn {
     color: var(--primary-white) !important;
 }
 .btn-primary {
-    background: var(--primary-purple) !important;
+    background: var(--primary-main) !important;
     color: var(--primary-white) !important;
     border: none;
 }
@@ -628,7 +628,7 @@ a, button, .btn, a.button, button.btn {
     filter: invert(100%) sepia(100%) saturate(38%) hue-rotate(335deg) brightness(108%) contrast(114%) !important;
 }
 .vip-table-row-line {
-    border-bottom: 1px solid var(--primary-yellow);
+    border-bottom: 1px solid var(--primary-sub);
 }
 .vip-table-row-line > div {
     line-height: 17px;
