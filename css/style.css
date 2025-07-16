@@ -336,8 +336,8 @@ a, button, .btn, a.button, button.btn {
     box-sizing: border-box;
     color: #fff;
     background-color: #1d1c1c;
-    background-color: var(--primary-yellow);
-    color: var(--primary-black);
+    background-color: var(--primary-purple);
+    color: var(--primary-white);
 }
 .marquee span {
     display: inline-block;
@@ -526,13 +526,16 @@ a, button, .btn, a.button, button.btn {
 }
 .btn-section-bg {
     background: #292421;
-    border: .5px solid var(--primary-yellow);
+    border: .5px solid var(--primary-purple);
 }
 .btn-section-bg.active:not(.amount_options) {
-    background-color: var(--primary-yellow) !important;
-    color: var(--primary-black)!important;
+    background-color: var(--primary-purple) !important;
+    color: var(--primary-white)!important;
 }
 .text-primary {
+    color: var(--primary-purple) !important;
+}
+.text-secondary {
     color: var(--primary-yellow) !important;
 }
 .btn-style {
@@ -543,8 +546,8 @@ a, button, .btn, a.button, button.btn {
     color: var(--primary-white) !important;
 }
 .btn-primary {
-    background: var(--primary-yellow) !important;
-    color: var(--primary-black) !important;
+    background: var(--primary-purple) !important;
+    color: var(--primary-white) !important;
     border: none;
 }
 .text-0-5 {
