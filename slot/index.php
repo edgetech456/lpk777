@@ -167,7 +167,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Main Permainan Slot Terbaik Dalam Talian Bersama LPK777</h1>
-                                <p><strong><a href="https://lpk-777.com">LPK777</a></strong> menawarkan barisan permainan slot yang kukuh dan direka untuk semua jenis pemain. Daripada pemain baharu hingga pemain berpengalaman, terdapat sesuatu untuk semua orang di sini. Nak chill sambil pusing-pusing reel pun boleh, nak all-out kejar jackpot pun takde hal, <strong><a href="https://lpk-777.com/slot">platform slot LPK777</a></strong> menyediakan pengalaman permainan yang lancar dan stabil.</p>
+                                <p><a href="https://lpk-777.com"><strong>LPK777</strong></a> menawarkan barisan permainan slot yang kukuh dan direka untuk semua jenis pemain. Daripada pemain baharu hingga pemain berpengalaman, terdapat sesuatu untuk semua orang di sini. Nak chill sambil pusing-pusing reel pun boleh, nak all-out kejar jackpot pun takde hal, <a href="https://lpk-777.com/slot"><strong>platform slot LPK777</strong></a> menyediakan pengalaman permainan yang lancar dan stabil.</p>
                                 <p>&nbsp;</p>
                                 <p>Semua sistem di platform ini selamat, mesra pengguna, dan dimuatkan dengan pantas. Hanya pilih permainan, tekan butang spin, dan nikmati hiburan tanpa gangguan.</p>
                                 <p>&nbsp;</p>
@@ -175,25 +175,25 @@ include '../inc/functions.php';
                                 <p>Kat LPK777, permainan slot bukan sekadar hiburan – ia merupakan satu pengalaman. Direka oleh penyedia permainan terkemuka, setiap permainan memenuhi standard prestasi dan keadilan. Anda akan dapati:</p>
                                 <ul>
                                     <li>Koleksi permainan yang luas dengan pelbagai tema & ciri</li>
-                                    <li>Prestasi lancar di semua peranti termasuk <strong><a href="https://lpk-777.com/muat-turun-apk">aplikasi mudah alih LPK777</a></strong></li>
+                                    <li>Prestasi lancar di semua peranti termasuk <a href="https://lpk-777.com/muat-turun-apk"><strong>aplikasi mudah alih LPK777</strong></a></li>
                                     <li>Nilai RTP telus untuk setiap permainan</li>
                                     <li>Penapis pintar untuk cari permainan ikut gaya korang</li>
                                 </ul>
-                                <p>Semua ciri ini menjadikan <strong><a href="https://lpk-777.com/slot">permainan slot LPK777</a></strong> antara yang paling digemari oleh pemain Malaysia.</p>
+                                <p>Semua ciri ini menjadikan <a href="https://lpk-777.com/slot"><strong>permainan slot LPK777</strong></a> antara yang paling digemari oleh pemain Malaysia.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Jenis-Jenis Permainan Slot Yang Kena Tahu</h2>
-                                <p>Kami dah susun permainan kepada beberapa kategori supaya korang senang nak pilih:</p>
-                                <strong>Slot Klasik</strong>
+                                <p class="mb-3">Kami dah susun permainan kepada beberapa kategori supaya korang senang nak pilih:</p>
+                                <h3 class="text-p"><strong>Slot Klasik</strong></h3>
                                 <p>Yang ni mudah difahami, memberikan rasa nostalgia, dan sesuai untuk pemain yang menyukai format reel tradisional dengan simbol – simbol buah, lucky 7, bell.</p>
                                 <p>&nbsp;</p>
-                                <strong>Slot Video</strong>
+                                <h3 class="text-p"><strong>Slot Video</strong></h3>
                                 <p>Grafik mantap, jalan cerita tersendiri, dan pusingan bonus interaktif, sesuai untuk pemain yang suka layan style cinematic.</p>
                                 <p>&nbsp;</p>
-                                <strong>Slot Jackpot</strong>
+                                <h3 class="text-p"><strong>Slot Jackpot</strong></h3>
                                 <p>Game jenis ni menawarkan peluang menang besar melalui jackpot progresif atau tetap. Sekali pusing sahaja boleh mengubah segalanya.</p>
                                 <p>&nbsp;</p>
-                                <strong>Slot Megaways dan Berfitur Tinggi</strong>
+                                <h3 class="text-p"><strong>Slot Megaways dan Berfitur Tinggi</strong></h3>
                                 <p>Slot dengan ganjaran tinggi yang mempunyai ribuan cara untuk menang, reel bertingkat, simbol berkembang, dan banyak lagi – untuk orang yang suka aksi dan ciri permainan lanjutan.</p>
                                 <p>&nbsp;</p>
 
@@ -204,7 +204,7 @@ include '../inc/functions.php';
                                     <li><strong>Buat Deposit:</strong> Pilih kaedah pembayaran yang korang guna</li>
                                     <li><strong>Pilih Permainan:</strong> – Terokai kategori atau yang tengah trending sekarang</li>
                                 </ol>
-                                <p>Semua jenis ini tersedia di <strong><a href="https://lpk-777.com/slot">platform permainan LPK777</a></strong> dan boleh dicuba mengikut citarasa anda.</p>
+                                <p>Semua jenis ini tersedia di <a href="https://lpk-777.com/slot"><strong>platform permainan LPK777</strong></a> dan boleh dicuba mengikut citarasa anda.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Cuba Dulu Sebelum Bertaruh: Ketersediaan Mod Demo</h2>
@@ -218,7 +218,7 @@ include '../inc/functions.php';
                                 <p>&nbsp;</p>
 
                                 <h2>Permainan Slot RTP Tinggi di LPK777</h2>
-                                <p>Jika anda ingin mendapatkan pulangan lebih baik semasa bermain, memilih permainan slot dengan RTP (Return to Player) tinggi adalah pilihan bijak. Berikut ialah beberapa permainan <strong><a href="https://lpk-777.com/bonus-promosi">RTP tinggi</a></strong> di LPK777:</p>
+                                <p>Jika anda ingin mendapatkan pulangan lebih baik semasa bermain, memilih permainan slot dengan RTP (Return to Player) tinggi adalah pilihan bijak. Berikut ialah beberapa permainan <a href="https://lpk-777.com/bonus-promosi"><strong>RTP tinggi</strong></a> di LPK777:</p>
                                 <table class="table table-striped mb-0">
                                     <thead>
                                         <tr>
@@ -293,12 +293,12 @@ include '../inc/functions.php';
                                 <ul>
                                     <li>Mula dengan <strong>slot volatiliti rendah</strong> untuk kemenangan lebih konsisten</li>
                                     <li>Pilih <strong>permainan RTP tinggi</strong> untuk pulangan jangka panjang</li>
-                                    <li>Guna <strong>mod demo</strong> sebelum main duit sebenar di <strong><a href="https://lpk-777.com/slot">slot demo LPK777</a></strong></li>
+                                    <li>Guna <strong>mod demo</strong> sebelum main duit sebenar di <a href="https://lpk-777.com/slot"><strong>slot demo LPK777</strong></a></li>
                                     <li>Tetapkan bajet dan patuhinya – elakkan perjudian emosi</li>
                                     <li>Jangan kejar kekalahan – rehat dulu, cuba lagi bila lebih fokus</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <p>LPK777 juga menyokong <strong><a href="https://lpk-777.com/perjudian-bertanggungjawab">perjudian bertanggungjawab</a></strong> dan menggalakkan pengawalan diri bagi pemain semua peringkat.</p>
+                                <p>LPK777 juga menyokong <a href="https://lpk-777.com/perjudian-bertanggungjawab"><strong>perjudian bertanggungjawab</strong></a> dan menggalakkan pengawalan diri bagi pemain semua peringkat.</p>
                             </div>
                         </div>
                     </div>
@@ -318,7 +318,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya, semua permainan menggunakan RNG (Random Number Generator) yang telah disahkan untuk memastikan keputusan rawak dan adil. Ketelusan dijaga melalui <strong><a href="https://lpk-777.comg/terma-syarat">dasar privasi dan audit platform</a></strong>.
+                                        Ya, semua permainan menggunakan RNG (Random Number Generator) yang telah disahkan untuk memastikan keputusan rawak dan adil. Ketelusan dijaga melalui <a href="https://lpk-777.comg/terma-syarat"><strong>dasar privasi dan audit platform</strong></a>.
                                     </div>
                                     </div>
                                 </div>
@@ -330,7 +330,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse02" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Tak wajib. Korang boleh main terus dari pelayar atau muat turun <strong><a href="https://lpk-777.com/muat-turun-apk">APK rasmi LPK777</a></strong> untuk pengalaman lebih pantas dan smooth.
+                                        Tak wajib. Korang boleh main terus dari pelayar atau muat turun <a href="https://lpk-777.com/muat-turun-apk"><strong>APK rasmi LPK777</strong></a> untuk pengalaman lebih pantas dan smooth.
                                     </div>
                                     </div>
                                 </div>
@@ -402,7 +402,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Serendah RM0.20 hingga RM100++. Bergantung pada tetapan setiap permainan. Boleh rujuk terus dalam <strong><a href="https://lpk-777.com/slot">slot pilihan anda</a></strong>.
+                                        Serendah RM0.20 hingga RM100++. Bergantung pada tetapan setiap permainan. Boleh rujuk terus dalam <a href="https://lpk-777.com/slot"><strong>slot pilihan anda</strong></a>.
                                     </div>
                                     </div>
                                 </div>
@@ -414,7 +414,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse09" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Kebanyakannya ya, tapi ada pengecualian. Sila semak <strong><a href="https://lpk-777.comg/terma-syarat">terma & syarat promosi</a></strong> untuk kepastian.
+                                        Kebanyakannya ya, tapi ada pengecualian. Sila semak <a href="https://lpk-777.comg/terma-syarat"><strong>terma & syarat promosi</strong></a> untuk kepastian.
                                     </div>
                                     </div>
                                 </div>
@@ -426,7 +426,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya! LPK777 menganjurkan <strong><a href="https://lpk-777.com/bonus-promosi">kejohanan slot berkala</a></strong> dengan hadiah wang tunai. Semak laman promosi untuk info terkini.
+                                        Ya! LPK777 menganjurkan <a href="https://lpk-777.com/bonus-promosi"><strong>kejohanan slot berkala</strong></a> dengan hadiah wang tunai. Semak laman promosi untuk info terkini.
                                     </div>
                                     </div>
                                 </div>
@@ -450,7 +450,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Cuba refresh laman atau buka semula aplikasi. Jika masih gagal, hubungi <strong><a href="https://lpk-777.com/hubungi-kami">sokongan pelanggan 24/7</a></strong>.
+                                        Cuba refresh laman atau buka semula aplikasi. Jika masih gagal, hubungi <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan pelanggan 24/7</strong></a>.
                                     </div>
                                     </div>
                                 </div>

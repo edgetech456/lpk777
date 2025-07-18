@@ -75,10 +75,8 @@ $(document).ready(function() {
 
     $(document).on('click', '#masthead .navbar-collapse.show .navbar-close', function(e) {
 		e.preventDefault();
-		console.log('clicked');
-		var $this = $(this),
-			$button = $this.parents('.navbar-collapse').siblings('.navbar-toggler');
-		$button.click();
+		var $this = $(this);
+        $('#masthead .navbar-collapse').removeClass('show');
 	});
 
     $(document).on('click', '#copy-to-clipboard', function(e) {
@@ -115,4 +113,19 @@ $(document).ready(function() {
 			$('.floating-list').fadeOut();
 		}
 	}
+
+
+    $(document).on('click', function(e) {
+        var $target = $(e.target);
+
+        // Check if .navbar-collapse has class 'show'
+        if ($('.navbar-collapse').hasClass('show')) {
+            // If the click is NOT inside .navbar-collapse-inner or the close button
+            if ( !$target.closest('.navbar-collapse-inner').length &&
+                !$target.closest('#masthead .navbar-nav .navbar-close').length ) {
+                $('.navbar-collapse').removeClass('show');
+            }
+        }
+    });
+
 });

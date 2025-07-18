@@ -83,7 +83,7 @@ include '../inc/functions.php';
                                         <p>&nbsp;</p>
                                     </li>
                                     <li><p><strong>Deposit & Pengeluaran</strong></p>
-                                        <p>Semua aktiviti pembayaran perlu mematuhi <strong><a href="https://lpk-777.com/kaedah-pembayaran">kaedah pembayaran rasmi LPK777</a></strong>. Proses pengesahan mungkin diperlukan.</p>
+                                        <p>Semua aktiviti pembayaran perlu mematuhi <a href="https://lpk-777.com/kaedah-pembayaran"><strong>kaedah pembayaran rasmi LPK777</strong></a>. Proses pengesahan mungkin diperlukan.</p>
                                         <p>&nbsp;</p>
                                     </li>
                                     <li><p><strong>Bonus & Promosi</strong></p>

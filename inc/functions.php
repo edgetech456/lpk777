@@ -41,7 +41,7 @@ $menu_items = [
         "target" => "_self",
     ],
     [
-        "title" => "Program VIP di LPK777",
+        "title" => "VIP",
         "url" => "vip",
         "target" => "_self",
     ],
@@ -53,6 +53,11 @@ $menu_items = [
     [
         "title" => "Bonus & Promosi",
         "url" => "bonus-promosi",
+        "target" => "_self",
+    ],
+    [
+        "title" => "Hubungi Kami",
+        "url" => "hubungi-kami",
         "target" => "_self",
     ],
     [
@@ -68,11 +73,6 @@ $menu_items = [
     [
         "title" => "Terma Syarat",
         "url" => "terma-syarat",
-        "target" => "_self",
-    ],
-    [
-        "title" => "Hubungi Kami",
-        "url" => "hubungi-kami",
         "target" => "_self",
     ],
 ];

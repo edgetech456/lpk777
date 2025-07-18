@@ -74,22 +74,22 @@ include '../inc/functions.php';
                                 <p>Sila hubungi kami melalui mana-mana saluran berikut:</p>
                                 <p>&nbsp;</p>
                                 <h4>Telegram</h4>
-                                <p>(Akan datang...)</p>
+                                <p><a href="https://t.me/Win4uasia"><strong>@Win4uasia<strong></a></p>
                                 <p>&nbsp;</p>
                                 <h4>Live Chat</h4>
-                                <p>(Tersedia melalui laman web dan aplikasi mudah alih)</p>
+                                <p>(Akan datang...)</p>
                                 <p>&nbsp;</p>
                                 <h4>Facebook</h4>
-                                <p>(Akan datang...)</p>
+                                <p><a href="https://bit.ly/44A4vJ9" class="social-icon facebook"><span class="d-none">Facebook</span><i class="fa fa-facebook-official"></i></a></p>
                                 <p>&nbsp;</p>
                                 <h4>Lokasi</h4>
                                 <p>Level 33A, The Intermark, 348 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia</p>
                                 <p>&nbsp;</p>
                                 <h4>Emel</h4>
-                                <p><strong><a href="mailto:support@lpk777.org">support@lpk777.org</a></strong></p>
+                                <p><a href="mailto:win4u66@gmail.com"><strong>win4u66@gmail.com</strong></a></p>
                                 <p>&nbsp;</p>
                                 <h4>Telefon</h4>
-                                <p><strong><a href="tel:+60 11-1234 5678">+60 11-1234 5678</a></strong></p>
+                                <p><a href="tel:+60 11-1234 5678"><strong>+60 11-1234 5678</strong></a></p>
                             </div>
                         </div>
                     </div>

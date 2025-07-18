@@ -167,13 +167,13 @@ include '../inc/functions.php';
                                 <h1>Kaedah Pembayaran LPK777: Panduan Lengkap untuk Transaksi Lancar</h1>
                                 <p>&nbsp;</p>
                                 <h2>Kenapa Kaedah Pembayaran Penting di LPK777</h2>
-                                <p>Bila anda mula bermain di <strong><a href="https://lpk-777.com">LPK777</a></strong>, perkara terakhir yang anda nak risaukan ialah cara nak deposit duit. Anda nak top-up cepat, main lancar, dan withdraw tanpa masalah, kan?</p>
+                                <p>Bila anda mula bermain di <a href="https://lpk-777.com"><strong>LPK777</strong></a>, perkara terakhir yang anda nak risaukan ialah cara nak deposit duit. Anda nak top-up cepat, main lancar, dan withdraw tanpa masalah, kan?</p>
                                 <p>&nbsp;</p>
-                                <p>Sebab tu penting untuk tahu kaedah pembayaran yang sesuai. Ada yang pantas, ada yang senang, ada yang caj rendah. Sama ada anda pemain baru atau dah biasa main <strong><a href="https://lpk-777.com/slot">slot online</a></strong>, faham pilihan anda boleh jimat masa dan elak masalah kemudian hari.</p>
+                                <p>Sebab tu penting untuk tahu kaedah pembayaran yang sesuai. Ada yang pantas, ada yang senang, ada yang caj rendah. Sama ada anda pemain baru atau dah biasa main <a href="https://lpk-777.com/slot"><strong>slot online</strong></a>, faham pilihan anda boleh jimat masa dan elak masalah kemudian hari.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Gambaran Umum Kaedah Pembayaran LPK777</h2>
-                                <p><strong><a href="https://lpk-777.com/kaedah-pembayaran">Kaedah pembayaran LPK777</a></strong> menyokong pelbagai pilihan yang biasa digunakan pemain Malaysia. Tak perlu belajar benda pelik, hanya pilih yang sesuai dengan anda:</p>
+                                <p><a href="https://lpk-777.com/kaedah-pembayaran"><strong>Kaedah pembayaran LPK777</strong></a> menyokong pelbagai pilihan yang biasa digunakan pemain Malaysia. Tak perlu belajar benda pelik, hanya pilih yang sesuai dengan anda:</p>
                                 <ul>
                                     <li><strong>Kad Kredit/Debit</strong>: Visa & Mastercard – senang dan biasa digunakan</li>
                                     <li><strong>TNG eWallet</strong>: Sangat popular, cepat dan mesra mudah alih</li>
@@ -199,7 +199,7 @@ include '../inc/functions.php';
                                     <li>Melebihi had kad</li>
                                     <li>Maklumat CVV atau tarikh luput salah</li>
                                 </ul>
-                                <p>Pastikan kad anda boleh digunakan online & ada baki cukup. Kalau masih tak boleh, cuba <strong><a href="https://lpk-777.com/kaedah-pembayaran">TNG eWallet</a></strong> atau pindahan bank.</p>
+                                <p>Pastikan kad anda boleh digunakan online & ada baki cukup. Kalau masih tak boleh, cuba <a href="https://lpk-777.com/kaedah-pembayaran"><strong>TNG eWallet</strong></a> atau pindahan bank.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Bayar Guna TNG eWallet</h2>
@@ -214,7 +214,7 @@ include '../inc/functions.php';
                                 <p>Cepat, mudah, dan tak perlu masukkan maklumat kad atau bank.</p>
                                 <p>&nbsp;</p>
                                 <p><strong>TNG Paling Senang Digunakan?</strong></p>
-                                <p>Ya, terutama untuk pengguna mudah alih. Transaksi selesai dalam beberapa saat tanpa error. Kadangkala ada <strong><a href="https://lpk-777.com/bonus-promosi">cashback atau promosi eksklusif</a></strong> juga – sebab tu ramai pemain suka guna TNG.</p>
+                                <p>Ya, terutama untuk pengguna mudah alih. Transaksi selesai dalam beberapa saat tanpa error. Kadangkala ada <a href="https://lpk-777.com/bonus-promosi"><strong>cashback atau promosi eksklusif</strong></a> juga – sebab tu ramai pemain suka guna TNG.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Pindahan Bank Dalam Talian: Stabil dan Boleh Dipercayai?</h2>
@@ -283,7 +283,7 @@ include '../inc/functions.php';
 
                                 <h2>Ada Caj Tambahan atau Had tak?</h2>
                                 <p>
-                                    Biasanya, <strong><a href="https://lpk-777.com">LPK777</a></strong> tak kenakan caj tambahan untuk deposit. Tapi, pihak bank atau penyedia pembayaran mungkin kenakan sedikit caj:
+                                    Biasanya, <a href="https://lpk-777.com"><strong>LPK777</strong></a> tak kenakan caj tambahan untuk deposit. Tapi, pihak bank atau penyedia pembayaran mungkin kenakan sedikit caj:
                                 </p>
                                 <ul>
                                     <li><strong>Kad kredit</strong>: Caj pendahuluan tunai mungkin dikenakan</li>
@@ -302,7 +302,7 @@ include '../inc/functions.php';
                                 </ul>
                                 <p>&nbsp;</p>
                                 <p>
-                                    Langkah mudah ini boleh elak banyak masalah dan pastikan anda boleh terus <strong><a href="https://lpk-777.com/slot">main permainan slot</a></strong> tanpa tunggu lama.
+                                    Langkah mudah ini boleh elak banyak masalah dan pastikan anda boleh terus <a href="https://lpk-777.com/slot"><strong>main permainan slot</strong></a> tanpa tunggu lama.
                                 </p>
                             </div>
                         </div>
@@ -363,7 +363,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse04" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Tunggu 10 minit. Jika masih tiada update, hubungi <strong><a href="https://lpk-777.com/hubungi-kami">sokongan pelanggan</a></strong>.
+                                            Tunggu 10 minit. Jika masih tiada update, hubungi <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan pelanggan</strong></a>.
                                         </div>
                                     </div>
                                 </div>
@@ -454,7 +454,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse11" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Pada masa ini, LPK777 fokus kepada TNG eWallet kerana ia paling stabil dan popular. Namun, sokongan untuk e-wallet lain seperti Boost atau GrabPay mungkin ditambah pada masa akan datang. Semak <strong><a href="https://lpk-777.com/kaedah-pembayaran">halaman pembayaran rasmi</a></strong> untuk info terkini.
+                                            Pada masa ini, LPK777 fokus kepada TNG eWallet kerana ia paling stabil dan popular. Namun, sokongan untuk e-wallet lain seperti Boost atau GrabPay mungkin ditambah pada masa akan datang. Semak <a href="https://lpk-777.com/kaedah-pembayaran"><strong>halaman pembayaran rasmi</strong></a> untuk info terkini.
                                         </div>
                                     </div>
                                 </div>
@@ -467,7 +467,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna <strong><a href="https://lpk-777.com/vip">vip LPK777</a></strong>.
+                                            Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna <a href="https://lpk-777.com/vip"><strong>vip LPK777</strong></a>.
                                         </div>
                                     </div>
                                 </div>

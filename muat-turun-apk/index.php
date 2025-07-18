@@ -166,13 +166,13 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Muat Turun Aplikasi LPK777 untuk Pengalaman Slot yang Pantas dan Lancar</h1>
-                                <p>Main permainan slot kegemaran anda bila-bila masa dengan <strong><a href="https://lpk-777.com/muat-turun-apk">aplikasi LPK777</a></strong> yang direka khas untuk kelajuan, kemudahan dan prestasi mantap. Sama ada korang main dari tren, rehat lunch atau kat rumah, aplikasi ini beri akses segera ke semua <strong><a href="https://lpk-777.com/slot">permainan slot</a></strong> terbaik LPK777.</p>
+                                <p>Main permainan slot kegemaran anda bila-bila masa dengan <a href="https://lpk-777.com/muat-turun-apk"><strong>aplikasi LPK777</strong></a> yang direka khas untuk kelajuan, kemudahan dan prestasi mantap. Sama ada korang main dari tren, rehat lunch atau kat rumah, aplikasi ini beri akses segera ke semua <a href="https://lpk-777.com/slot"><strong>permainan slot</strong></a> terbaik LPK777.</p>
                                 <p>&nbsp;</p>
                                 <p>Tak perlu taip URL atau tunggu pelayar loading. Dengan satu tap sahaja, korang terus boleh mula bermain – mudah dan jimat masa.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Kenapa Perlu Guna Aplikasi LPK777?</h2>
-                                <p><strong><a href="https://lpk-777.com/muat-turun-apk">Aplikasi LPK777</a></strong> direka khusus untuk pemain slot yang mengutamakan kemudahan di peranti mudah alih dan akses pantas. Berbanding melayari laman web secara manual, aplikasi apk menawarkan:</p>
+                                <p><a href="https://lpk-777.com/muat-turun-apk"><strong>Aplikasi LPK777</strong></a> direka khusus untuk pemain slot yang mengutamakan kemudahan di peranti mudah alih dan akses pantas. Berbanding melayari laman web secara manual, aplikasi apk menawarkan:</p>
                                 <ul>
                                     <li>Masa pemuatan lebih pantas dan prestasi lebih lancar</li>
                                     <li>Log masuk satu sentuhan dengan fungsi auto-simpan</li>
@@ -189,7 +189,7 @@ include '../inc/functions.php';
                                     <li><strong>Dioptimumkan untuk Permainan Slot:</strong> Susun atur ringkas, akses pantas ke permainan dan respons putaran yang cepat</li>
                                     <li><strong>Log Masuk Selamat:</strong> Akses disulitkan dengan pilihan log masuk biometrik (Face ID ataupun cap jari)</li>
                                     <li><strong>Papan Pemuka Peribadi:</strong> Papar permainan terakhir, bonus aktif dan maklumat dompet anda serta-merta</li>
-                                    <li><strong>Pemberitahuan Tolakan (Push Notification):</strong> Makluman tentang pelancaran slot terbaru, promosi khas aplikasi dan <strong><a href="https://lpk-777.com/slot">kemas kini jackpot</a></strong></li>
+                                    <li><strong>Pemberitahuan Tolakan (Push Notification):</strong> Makluman tentang pelancaran slot terbaru, promosi khas aplikasi dan <a href="https://lpk-777.com/slot"><strong>kemas kini jackpot</strong></a></li>
                                     <li><strong>Pemasangan Ringan:</strong> Tidak memakan ruang besar dan berfungsi lancar walaupun pada telefon lama</li>
                                 </ul>
                                 <p>Segala-galanya direka agar mudah digunakan tanpa memerlukan kemahiran teknikal.</p>
@@ -197,9 +197,9 @@ include '../inc/functions.php';
                                 
                                 <h2>Cara Pasang Aplikasi LPK777</h2>
                                 <p>Ikuti langkah mudah berikut mengikut jenis peranti anda:</p>
-                                <p>Untuk Pengguna Android:</p>
+                                <p><strong>Untuk Pengguna Android:</strong></p>
                                 <ol>
-                                    <li>Buka pelayar dan lawati <strong><a href="https://lpk-777.com/muat-turun-apk">laman rasmi LPK777</a></strong></li>
+                                    <li>Buka pelayar dan lawati <a href="https://lpk-777.com/muat-turun-apk"><strong>laman rasmi LPK777</strong></a></li>
                                     <li>Klik butang <strong>Muat Turun APK</strong></li>
                                     <li>Benarkan pemasangan aplikasi daripada sumber tidak diketahui (tetapan sekali sahaja)</li>
                                     <li>Buka fail APK dan pasang aplikasi</li>
@@ -207,7 +207,7 @@ include '../inc/functions.php';
                                 </ol>
                                 <p class="fst-italic">⚠️ Pastikan hanya muat turun dari laman rasmi LPK777 untuk keselamatan anda.</p>
                                 <p>&nbsp;</p>
-                                <p>Untuk Pengguna iOS:</p>
+                                <p><strong>Untuk Pengguna iOS:</strong></p>
                                 <ol>
                                     <li>Layari laman rasmi APK LPK777 menggunakan pelayar Safari</li>
                                     <li>Tekan ikon <strong>Kongsi</strong> di bawah skrin</li>
@@ -216,7 +216,7 @@ include '../inc/functions.php';
                                 </ol>
                                 <p>Nota: iOS menyokong pengalaman web apk yang dioptimumkan untuk prestasi dan kemudahan pengguna.</p>
                                 <p>&nbsp;</p>
-                                <p>Keserasian Aplikasi dan Keperluan Minimum</p>
+                                <h3>Keserasian Aplikasi dan Keperluan Minimum</h3>
                                 <p>&nbsp;</p>
                                 <p>Pastikan peranti anda memenuhi spesifikasi berikut:</p>
                                 <ul>
@@ -232,7 +232,7 @@ include '../inc/functions.php';
                                     <thead>
                                         <th><strong>Ciri</strong></th>
                                         <th><strong>Versi Aplikasi</strong></th>
-                                        <th><strong>Versi Pelayar Mudah Alih</strong></th>
+                                        <th><strong>Versi Web</strong></th>
                                     </thead>
                                     <tbody>
                                         <tr>
@@ -266,9 +266,10 @@ include '../inc/functions.php';
 
                                 <h2>Pengurusan Pemberitahuan dan Kemas Kini</h2>
                                 <ul>
-                                    <li><strong></strong>Untuk Aktifkan Pemberitahuan:</strong> Benarkan semasa pemasangan pertama atau hidupkan dalam tetapan telefon</li>
-                                    <li><strong></strong>Untuk Matikan Pemberitahuan:</strong> Tetapan Telefon > Pemberitahuan > LPK777 > Lumpuhkan</li>
-                                    <li><strong></strong>Kemas Kini:</strong> Notis kemas kini akan dihantar secara automatik. Sentiasa gunakan laman rasmi untuk <strong><a href="https://lpk-777.com">muat turun aplikasi</a></strong> semula</li>
+                                    <li><Untuk Aktifkan Pemberitahuan:</strong> Benarkan semasa pemasangan pertama atau hidupkan dalam tetapan telefon</li>
+                                    <li>Untuk Matikan Pemberitahuan:</strong> Tetapan Telefon > Pemberitahuan > LPK777 > Lumpuhkan</li>
+                                    <li>Kemas Kini:</strong> Notis kemas kini akan dihantar secara automatik. Sentiasa gunakan laman rasmi untuk <a href="https://lpk-777.com"><strong>muat turun aplikasi</strong></a> semula</li>
+                                    <li>Kekal dikemas kini bermakna anda tidak akan terlepas sebarang bonus atau tournament baharu.</li>
                                 </ul>
                                 <p>&nbsp;</p>
 
@@ -299,7 +300,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse01" class="accordion-collapse collapse show" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya. Selagi dimuat turun dari <strong><a href="https://lpk-777.com">homepage (laman rasmi)</a></strong>, ia bebas dari malware dan selamat
+                                        Ya. Selagi dimuat turun dari <a href="https://lpk-777.com"><strong>homepage (laman rasmi)</strong></a>, ia bebas dari malware dan selamat
                                     </div>
                                     </div>
                                 </div>
@@ -431,7 +432,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Mulakan semula aplikasi atau peranti. Jika masih bermasalah, <strong><a href="https://lpk-777.com/muat-turun-apk">muat turun semula</a></strong> dari laman web rasmi atau hubungi sokongan.
+                                        Mulakan semula aplikasi atau peranti. Jika masih bermasalah, <a href="https://lpk-777.com/muat-turun-apk"><strong>muat turun semula</strong></a> dari laman web rasmi atau hubungi sokongan.
                                     </div>
                                     </div>
                                 </div>

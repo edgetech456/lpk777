@@ -93,7 +93,7 @@ include '../inc/functions.php';
                                         <p>&nbsp;</p>
                                     </li>
                                     <li><p><strong>Akses dan Kawalan Pengguna</strong></p>
-                                        <p>Anda boleh meminta akses, pembetulan, atau pemadaman data peribadi anda pada bila-bila masa melalui <strong><a href="https://lpk-777.com/hubungi-kami">sokongan pelanggan</a></strong>.</p>
+                                        <p>Anda boleh meminta akses, pembetulan, atau pemadaman data peribadi anda pada bila-bila masa melalui <a href="https://lpk-777.com/hubungi-kami"><strong>sokongan pelanggan</strong></a>.</p>
                                         <p>&nbsp;</p>
                                     </li>
                                     <li><p><strong>Tempoh Simpanan Data</strong></p>

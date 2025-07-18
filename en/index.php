@@ -327,9 +327,9 @@ $language = 'en';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>LPK777 - Laman Slot Online & Pengeluaran Cepat di Malaysia</h1>
-                                <p>LPK777 ialah platform di mana permainan slot dalam talian menjadi mudah, selamat, dan menguntungkan. Sama ada anda baru mencuba permainan slot atau sedang mencari platform yang lagi best, <strong><a href="https://lpk-777.com">LPK777</a></strong> direka untuk memberikan pengalaman terbaik sebaik sahaja anda mula bermain.</p>
+                                <p>LPK777 ialah platform di mana permainan slot dalam talian menjadi mudah, selamat, dan menguntungkan. Sama ada anda baru mencuba permainan slot atau sedang mencari platform yang lagi best, <a href="https://lpk-777.com"><strong>LPK777</strong></a> direka untuk memberikan pengalaman terbaik sebaik sahaja anda mula bermain.</p>
                                 <p>&nbsp;</p>
-                                <p>Platform ini menawarkan pelbagai permainan slot, navigasi yang lancar di semua peranti, transaksi pantas, dan promosi tetap yang benar-benar memberi faedah. Jom terokai mengapa LPK777 menjadi pilihan utama dalam dunia <strong><a href="https://lpk-777.com/slot">permainan slot dalam talian</a></strong></p>
+                                <p>Platform ini menawarkan pelbagai permainan slot, navigasi yang lancar di semua peranti, transaksi pantas, dan promosi tetap yang benar-benar memberi faedah. Jom terokai mengapa LPK777 menjadi pilihan utama dalam dunia <a href="https://lpk-777.com/slot"><strong>permainan slot dalam talian</strong></a></p>
                                 <p>&nbsp;</p>
                                 <h2>Kenapa Pemain Memilih LPK777</h2>
                                 <p>Memilih platform permainan slot dalam talian boleh jadi pening kepala, tetapi LPK777 menjadikannya mudah untuk anda. Ia dikenali sebagai platform lengkap yang menggabungkan pelbagai pilihan, iaitu sebab:</p>
@@ -337,7 +337,7 @@ $language = 'en';
                                     <li>Interface dia kemas, tak serabut, senang nak navigate</li>
                                     <li>Ratusan permainan slot menarik dari provider terkemuka</li>
                                     <li>Deposit & withdraw pakai bank tempatan atau TNG e-wallet, semua selamat</li>
-                                    <li>Ganjaran harian dan <strong><a href="https://lpk-777.com/bonus-promosi">bonus musim perayaan</a></strong> yang menarik</li>
+                                    <li>Ganjaran harian dan <a href="https://lpk-777.com/bonus-promosi"><strong>bonus musim perayaan</strong></a> yang menarik</li>
                                     <li>Live chat 24 jam, tak tinggal kau senyap bila ada masalah</li>
                                 </ul>
                                 <p>LPK777 memang bagi apa yang pemain nak – servis laju, game adil, dan tak bagi stress kepada pemain.</p>
@@ -350,7 +350,7 @@ $language = 'en';
                                     <li>Boleh pilih ikut tema: horror, adventure, klasik, semua ada</li>
                                     <li>Penapis pintar untuk bagi korang cari game dengan cepat</li>
                                 </ul>
-                                <p>Semua <strong><a href="https://lpk-777.com/slot">LPK777 slot</a></strong> telah diuji untuk memastikan keadilan, memberikan keyakinan kepada setiap pemain.</p>
+                                <p>Semua <a href="https://lpk-777.com/slot"><strong>LPK777 slot</strong></a> telah diuji untuk memastikan keadilan, memberikan keyakinan kepada setiap pemain.</p>
                                 <p>&nbsp;</p>
                                 <h2>Cara Nak Pilih Slot Game yang Sesuai</h2>
                                 <p>Sebelum mula bermain, berikut beberapa tips ringkas untuk anda:</p>
@@ -370,7 +370,7 @@ $language = 'en';
                                 <p>Panduan ini membantu anda bermain dengan lebih yakin bila nak mula main.</p>
                                 <p>&nbsp;</p>
                                 <h2>Main Kat Mana-Mana, Bila-Bila Masa</h2>
-                                <p>LPK777 boleh dibuka melalui pelayar atau terus install aplikasi rasmi. Pengalaman terbaik ditawarkan melalui <strong><a href="https://lpk-777.com/muat-turun-apk">muat turun APK LPK777</a></strong> dengan:</p>
+                                <p>LPK777 boleh dibuka melalui pelayar atau terus install aplikasi rasmi. Pengalaman terbaik ditawarkan melalui <a href="https://lpk-777.com/muat-turun-apk"><strong>muat turun APK LPK777</strong></a> dengan:</p>
                                 <ul>
                                     <li>Masa pemuatan yang pantas dan paparan kemas</li>
                                     <li>Auto login, tak payah asyik masuk password</li>
@@ -385,7 +385,7 @@ $language = 'en';
                                 <p>Duit masuk cepat, nak keluarkan pun tak payah tunggu lama dengan sokongan pelanggan sentiasa tersedia jika diperlukan.</p>
                                 <p>&nbsp;</p>
                                 <h2>LPK777 Bonus & Promo Yang Tak Main-Main</h2>
-                                <p>Pemain baru akan terus dapat <strong><a href="https://lpk-777.com/bonus-promosi">welcome bonus</a></strong> selepas daftar. Tapi bukan tu je:</p>
+                                <p>Pemain baru akan terus dapat <a href="https://lpk-777.com/bonus-promosi"><strong>welcome bonus</strong></a> selepas daftar. Tapi bukan tu je:</p>
                                 <ul>
                                     <li>Ganjaran deposit harian kalau korang rajin topup</li>
                                     <li>Tawaran cashback untuk kurangkan kerugian</li>
@@ -401,7 +401,7 @@ $language = 'en';
                                 <h2>Mudah untuk Mula Bermain</h2>
                                 <p>Tidak perlu kemahiran teknikal yang tinggi. Proses pendaftaran dan mula bermain amat mudah:</p>
                                 <ol>
-                                    <li>Klik “Daftar” kat <strong><a href="https://lpk-777.com">lpk777 homepage</a></strong></li>
+                                    <li>Klik “Daftar” kat <a href="https://lpk-777.com"><strong>lpk777 homepage</strong></a></li>
                                     <li>Pilih kaedah pembayaran dan buat deposit</li>
                                     <li>Terus boleh akses dan main permainan slot kegemaran</li>
                                 </ol>
@@ -459,7 +459,7 @@ $language = 'en';
                                     </h3>
                                     <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Boleh. <strong><a href="https://lpk-777.com">LPK777</a></strong> berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar.
+                                        Boleh. <a href="https://lpk-777.com"><strong>LPK777</strong></a> berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar.
                                     </div>
                                     </div>
                                 </div>
@@ -495,7 +495,7 @@ $language = 'en';
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya, <strong><a href="https://lpk-777.com/hubungi-kami">live chat</a></strong> bukak 24 jam. Takde tinggal korang tergantung, memang ada orang jaga.
+                                        Ya, <a href="https://lpk-777.com/hubungi-kami"><strong>live chat</strong></a> bukak 24 jam. Takde tinggal korang tergantung, memang ada orang jaga.
                                     </div>
                                     </div>
                                 </div>
@@ -567,7 +567,7 @@ $language = 'en';
                                     </h3>
                                     <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya. LPK777 tawarkan program VIP bertingkat, makin banyak main, makin banyak hadiah. Lawati <strong><a href="https://lpk-777.com/vip">bahagian VIP</a></strong> untuk maklumat lanjut.
+                                        Ya. LPK777 tawarkan program VIP bertingkat, makin banyak main, makin banyak hadiah. Lawati <a href="https://lpk-777.com/vip"><strong>bahagian VIP</strong></a> untuk maklumat lanjut.
                                     </div>
                                     </div>
                                 </div>

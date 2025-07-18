@@ -88,14 +88,14 @@ include '../inc/functions.php';
                                     <li><strong>Peringatan Masa Bermain:</strong> Tetapkan notifikasi masa sesi</li>
                                 </ul>
                                 <p>&nbsp;</p>
-                                <p>Untuk mengaktifkan mana-mana alat ini, sila hubungi <strong><a href="https://lpk-777.com/hubungi-kami">Sokongan Pelanggan LPK777</a></strong>.</p>
+                                <p>Untuk mengaktifkan mana-mana alat ini, sila hubungi <a href="https://lpk-777.com/hubungi-kami"><strong>Sokongan Pelanggan LPK777</strong></a>.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Sokongan Untuk Isu Ketagihan Judi</h2>
                                 <p>Jika anda atau seseorang yang anda kenali menghadapi masalah perjudian, pertimbangkan untuk menghubungi organisasi berikut:</p>
                                 <ul>
-                                    <li>Be Gamble Aware (<strong><a href="http://www.begambleaware.org">www.begambleaware.org</a></strong>)</li>
-                                    <li>GamCare (<strong><a href="http://www.gamcare.org.uk">www.gamcare.org.uk</a></strong>)</li>
+                                    <li>Be Gamble Aware (<a href="http://www.begambleaware.org"><strong>www.begambleaware.org</strong></a>)</li>
+                                    <li>GamCare (<a href="http://www.gamcare.org.uk"><strong>www.gamcare.org.uk</strong></a>)</li>
                                 </ul>
                                 <p>&nbsp;</p>
                                 <p>LPK777 menggalakkan persekitaran yang selamat dan tidak bertujuan sebagai sumber pendapatan. Sila berjudi secara bertanggungjawab.</p>

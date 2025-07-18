@@ -204,14 +204,275 @@ include 'inc/functions.php';
         <?php include 'inc/navbar.php';?>
         <main class="pt-0" id="">
             <?php include 'inc/marquee.php';?>
+            <section class="" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 px-3">
+                            <div class="top-brand">
+                            <?php
+                            if( $top_brands ) {
+                                foreach( $top_brands as $key => $brand ) {
+                                    $brand_title = $brand['title'];
+                                    $brand_desc = $brand['description'];
+                                    $brand_thumbnail = $site_base_url.'images/top_brand/top_brand_'.$key.'.png';
+                                    $brand_link = $brand['url'];
+                            echo '<div class="top-brand-item '.$key.' p-2">
+                                <div class="top-brand-inner d-flex align-items-center justify-content-start">
+                                    <div class="col col-header pt-3">
+                                        <div class="col-image"><img src="'.$brand_thumbnail.'"/></div>
+                                        <div class="col-title">'.$brand_title.'</div>
+                                    </div>
+                                    <div class="col col-desc pt-3">
+                                        <p class="mb-0">'.$brand_desc.'</p>
+                                    </div>
+                                    <div class="col col-cta pt-3">
+                                        <a href="'.$brand_link.'"><span>VISIT</span></a>
+                                    </div>
+                                </div>
+                            </div>';
+                                }
+                            }
+                            ?>
+                            </div>
+
+                            <div class="userprofile-container p-3 mt-3 w-100">
+                                <div class="row mx-0">
+                                    <div class="col-5 px-0 text-center">
+                                        <img src="https://maltese9.protonz-cdn.com/public/assets/global_home/temp_vip.png" alt="vip_rank" class="w-50">
+                                    </div>
+                                    <div class="col-7 pr-0">
+                                        <div class="text-0-65 text-weight-400">Current Rank</div>
+                                        <div class="text-0-9 text-weight-700">--</div>
+                                        <div class="text-0-65 text-weight-400 mt-2">Current deposit</div>
+                                        <div class="text-0-9 text-weight-700"> --</div>
+                                        <div class="text-0-65 text-weight-400 mt-2">Current crypto deposit</div>
+                                        <div class="text-0-9 text-weight-700">0.00</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="userprofile-container w-100 mt-3 p-3">
+                                <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-0">
+                                    <div class="col-2 text-0-7 px-2 text-center">
+                                        Rank
+                                    </div>
+                                    <div class="col-2 text-0-7 px-2 text-center">
+                                        Monthly Total Deposit
+                                    </div>
+                                    <div class="col-2 text-0-7 px-2 text-center">
+                                        VIP Upgrade Bonus
+                                    </div>
+                                    <div class="col-2 text-0-7 px-2 text-center">
+                                        Birthday Bonus
+                                    </div>
+                                    <div class="col-2 text-0-7 px-2 text-center">
+                                        Daily Withdrawal Limit
+                                    </div>
+                                    <div class="col-2 text-0-7 px-2 text-center">
+                                        Daily Withdrawal Count
+                                    </div>
+                                </div>
+                                        <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/regular.png?25071610" alt="vip_rank" class="w-50">
+                                            
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            -
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            -
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            -
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            30,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            6
+                                        </div>
+                                    </div>
+                                        <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vip1.png?25071610" alt="vip_rank" class="w-50">
+                                            
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            3,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            38
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            68
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            40,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            7
+                                        </div>
+                                    </div>
+                                        <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vip2.png?25071610" alt="vip_rank" class="w-50">
+                                            
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            5,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            50
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            88
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            40,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            7
+                                        </div>
+                                    </div>
+                                        <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vip3.png?25071610" alt="vip_rank" class="w-50">
+                                            
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            10,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            118
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            138
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            50,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            8
+                                        </div>
+                                    </div>
+                                        <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vip4.png?25071610" alt="vip_rank" class="w-50">
+                                            
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            30,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            228
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            288
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            60,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            8
+                                        </div>
+                                    </div>
+                                        <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vip5.png?25071610" alt="vip_rank" class="w-50">
+                                            
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            100,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            398
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            498
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            80,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            10
+                                        </div>
+                                    </div>
+                                        <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vip6.png?25071610" alt="vip_rank" class="w-50">
+                                            
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            300,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            688
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            988
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            100,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            15
+                                        </div>
+                                    </div>
+                                        <div class="row mx-0 align-items-center vip-table-row-line pb-2 pt-2">
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vvip7.png?25071610" alt="vip_rank" class="w-50">
+                                            
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            500,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            1118
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            1988
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            150,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            15
+                                        </div>
+                                    </div>
+                                        <div class="row mx-0 align-items-center vip-table-row-line  pt-2">
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            <img src="https://maltese9.protonz-cdn.com/public/assets/merchant/plugnplaym4/vip/my/vvip8.png?25071610" alt="vip_rank" class="w-50">
+                                            
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            JEMPUTAN
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            1388
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            3888
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            200,000
+                                        </div>
+                                        <div class="col-2 text-0-7 px-2 text-center">
+                                            20
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
             <section class="section-login py-0" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="d-flex flex-wrap p-3 userprofile-container w-100 mt-3" id="userProfileModule">
                                 <div class="d-flex flex-wrap p-0 m-0 w-100 justify-content-between mb-3">
-                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="<?php echo $site_base_url;?>">Daftar</a>
-                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="<?php echo $site_base_url;?>">Log Masuk</a>
+                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="#">Daftar</a>
+                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="#">Log Masuk</a>
                                 </div>
                                 <div class="d-flex m-0 p-0 w-100">
                                     <div class="col-7 px-0 pe-2">
@@ -327,9 +588,9 @@ include 'inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>LPK777 - Laman Slot Online & Pengeluaran Cepat di Malaysia</h1>
-                                <p>LPK777 ialah platform di mana permainan slot dalam talian menjadi mudah, selamat, dan menguntungkan. Sama ada anda baru mencuba permainan slot atau sedang mencari platform yang lagi best, <strong><a href="https://lpk-777.com">LPK777</a></strong> direka untuk memberikan pengalaman terbaik sebaik sahaja anda mula bermain.</p>
+                                <p>LPK777 ialah platform di mana permainan slot dalam talian menjadi mudah, selamat, dan menguntungkan. Sama ada anda baru mencuba permainan slot atau sedang mencari platform yang lagi best, <a href="https://lpk-777.com"><strong>LPK777</strong></a> direka untuk memberikan pengalaman terbaik sebaik sahaja anda mula bermain.</p>
                                 <p>&nbsp;</p>
-                                <p>Platform ini menawarkan pelbagai permainan slot, navigasi yang lancar di semua peranti, transaksi pantas, dan promosi tetap yang benar-benar memberi faedah. Jom terokai mengapa LPK777 menjadi pilihan utama dalam dunia <strong><a href="https://lpk-777.com/slot">permainan slot dalam talian</a></strong></p>
+                                <p>Platform ini menawarkan pelbagai permainan slot, navigasi yang lancar di semua peranti, transaksi pantas, dan promosi tetap yang benar-benar memberi faedah. Jom terokai mengapa LPK777 menjadi pilihan utama dalam dunia <a href="https://lpk-777.com/slot"><strong>permainan slot dalam talian</strong></a></p>
                                 <p>&nbsp;</p>
                                 <h2>Kenapa Pemain Memilih LPK777</h2>
                                 <p>Memilih platform permainan slot dalam talian boleh jadi pening kepala, tetapi LPK777 menjadikannya mudah untuk anda. Ia dikenali sebagai platform lengkap yang menggabungkan pelbagai pilihan, iaitu sebab:</p>
@@ -337,7 +598,7 @@ include 'inc/functions.php';
                                     <li>Interface dia kemas, tak serabut, senang nak navigate</li>
                                     <li>Ratusan permainan slot menarik dari provider terkemuka</li>
                                     <li>Deposit & withdraw pakai bank tempatan atau TNG e-wallet, semua selamat</li>
-                                    <li>Ganjaran harian dan <strong><a href="https://lpk-777.com/bonus-promosi">bonus musim perayaan</a></strong> yang menarik</li>
+                                    <li>Ganjaran harian dan <a href="https://lpk-777.com/bonus-promosi"><strong>bonus musim perayaan</strong></a> yang menarik</li>
                                     <li>Live chat 24 jam, tak tinggal kau senyap bila ada masalah</li>
                                 </ul>
                                 <p>LPK777 memang bagi apa yang pemain nak – servis laju, game adil, dan tak bagi stress kepada pemain.</p>
@@ -350,7 +611,7 @@ include 'inc/functions.php';
                                     <li>Boleh pilih ikut tema: horror, adventure, klasik, semua ada</li>
                                     <li>Penapis pintar untuk bagi korang cari game dengan cepat</li>
                                 </ul>
-                                <p>Semua <strong><a href="https://lpk-777.com/slot">LPK777 slot</a></strong> telah diuji untuk memastikan keadilan, memberikan keyakinan kepada setiap pemain.</p>
+                                <p>Semua <a href="https://lpk-777.com/slot"><strong>LPK777 slot</strong></a> telah diuji untuk memastikan keadilan, memberikan keyakinan kepada setiap pemain.</p>
                                 <p>&nbsp;</p>
                                 <h2>Cara Nak Pilih Slot Game yang Sesuai</h2>
                                 <p>Sebelum mula bermain, berikut beberapa tips ringkas untuk anda:</p>
@@ -370,7 +631,7 @@ include 'inc/functions.php';
                                 <p>Panduan ini membantu anda bermain dengan lebih yakin bila nak mula main.</p>
                                 <p>&nbsp;</p>
                                 <h2>Main Kat Mana-Mana, Bila-Bila Masa</h2>
-                                <p>LPK777 boleh dibuka melalui pelayar atau terus install aplikasi rasmi. Pengalaman terbaik ditawarkan melalui <strong><a href="https://lpk-777.com/muat-turun-apk">muat turun APK LPK777</a></strong> dengan:</p>
+                                <p>LPK777 boleh dibuka melalui pelayar atau terus install aplikasi rasmi. Pengalaman terbaik ditawarkan melalui <a href="https://lpk-777.com/muat-turun-apk"><strong>muat turun APK LPK777</strong></a> dengan:</p>
                                 <ul>
                                     <li>Masa pemuatan yang pantas dan paparan kemas</li>
                                     <li>Auto login, tak payah asyik masuk password</li>
@@ -385,7 +646,7 @@ include 'inc/functions.php';
                                 <p>Duit masuk cepat, nak keluarkan pun tak payah tunggu lama dengan sokongan pelanggan sentiasa tersedia jika diperlukan.</p>
                                 <p>&nbsp;</p>
                                 <h2>LPK777 Bonus & Promo Yang Tak Main-Main</h2>
-                                <p>Pemain baru akan terus dapat <strong><a href="https://lpk-777.com/bonus-promosi">welcome bonus</a></strong> selepas daftar. Tapi bukan tu je:</p>
+                                <p>Pemain baru akan terus dapat <a href="https://lpk-777.com/bonus-promosi"><strong>welcome bonus</strong></a> selepas daftar. Tapi bukan tu je:</p>
                                 <ul>
                                     <li>Ganjaran deposit harian kalau korang rajin topup</li>
                                     <li>Tawaran cashback untuk kurangkan kerugian</li>
@@ -401,7 +662,7 @@ include 'inc/functions.php';
                                 <h2>Mudah untuk Mula Bermain</h2>
                                 <p>Tidak perlu kemahiran teknikal yang tinggi. Proses pendaftaran dan mula bermain amat mudah:</p>
                                 <ol>
-                                    <li>Klik “Daftar” kat <strong><a href="https://lpk-777.com">lpk777 homepage</a></strong></li>
+                                    <li>Klik “Daftar” kat <a href="https://lpk-777.com"><strong>lpk777 homepage</strong></a></li>
                                     <li>Pilih kaedah pembayaran dan buat deposit</li>
                                     <li>Terus boleh akses dan main permainan slot kegemaran</li>
                                 </ol>
@@ -459,7 +720,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse03" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Boleh. <strong><a href="https://lpk-777.com">LPK777</a></strong> berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar.
+                                        Boleh. <a href="https://lpk-777.com"><strong>LPK777</strong></a> berfungsi di semua pelayar mudah alih atau lagi senang, install je aplikasi dia untuk mainan lebih lancar.
                                     </div>
                                     </div>
                                 </div>
@@ -495,7 +756,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse06" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya, <strong><a href="https://lpk-777.com/hubungi-kami">live chat</a></strong> bukak 24 jam. Takde tinggal korang tergantung, memang ada orang jaga.
+                                        Ya, <a href="https://lpk-777.com/hubungi-kami"><strong>live chat</strong></a> bukak 24 jam. Takde tinggal korang tergantung, memang ada orang jaga.
                                     </div>
                                     </div>
                                 </div>
@@ -567,7 +828,7 @@ include 'inc/functions.php';
                                     </h3>
                                     <div id="collapse12" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                     <div class="accordion-body">
-                                        Ya. LPK777 tawarkan program VIP bertingkat, makin banyak main, makin banyak hadiah. Lawati <strong><a href="https://lpk-777.com/vip">bahagian VIP</a></strong> untuk maklumat lanjut.
+                                        Ya. LPK777 tawarkan program VIP bertingkat, makin banyak main, makin banyak hadiah. Lawati <a href="https://lpk-777.com/vip"><strong>bahagian VIP</strong></a> untuk maklumat lanjut.
                                     </div>
                                     </div>
                                 </div>

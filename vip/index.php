@@ -160,7 +160,7 @@ include '../inc/functions.php';
         <?php include '../inc/navbar.php';?>
         <main class="pt-0" id="">
             <?php include '../inc/marquee.php';?>
-            <section class="" id="">
+            <section class="d-none" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
@@ -428,7 +428,7 @@ include '../inc/functions.php';
                             <div class="text-editor">
                                 <h1>Nikmati Ganjaran Eksklusif Bersama Program VIP LPK777</h1>
                                 <p>
-                                    Di <strong><a href="https://lpk-777.com">LPK777</a></strong>, kesetiaan anda dihargai melebihi sekadar permainan. Program VIP kami direka untuk memberi ganjaran kepada pemain yang paling aktif dengan keistimewaan peribadi, servis pantas dan pakej eksklusif. Tak kisah anda main sikit atau banyak, setiap pusingan membawa anda lebih dekat dengan layanan VIP.
+                                    Di <a href="https://lpk-777.com"><strong>LPK777</strong></a>, kesetiaan anda dihargai melebihi sekadar permainan. Program VIP kami direka untuk memberi ganjaran kepada pemain yang paling aktif dengan keistimewaan peribadi, servis pantas dan pakej eksklusif. Tak kisah anda main sikit atau banyak, setiap pusingan membawa anda lebih dekat dengan layanan VIP.
                                 </p>
                                 <p>&nbsp;</p>
                                 <p>
@@ -438,7 +438,7 @@ include '../inc/functions.php';
 
                                 <h2>Apa Itu Program VIP LPK777?</h2>
                                 <p>
-                                    <strong><a href="https://lpk-777.com/vip">Program VIP LPK777</a></strong> ialah sistem ganjaran berperingkat yang memberi akses kepada kelebihan yang meningkat berdasarkan aktiviti permainan dan deposit anda. Lagi banyak anda main, makin tinggi status VIP anda – dan makin banyak faedah yang akan dibuka. 
+                                    <a href="https://lpk-777.com/vip"><strong>Program VIP LPK777</strong></a> ialah sistem ganjaran berperingkat yang memberi akses kepada kelebihan yang meningkat berdasarkan aktiviti permainan dan deposit anda. Lagi banyak anda main, makin tinggi status VIP anda – dan makin banyak faedah yang akan dibuka. 
                                 </p>
                                 <p>&nbsp;</p>
                                 <p>
@@ -456,7 +456,7 @@ include '../inc/functions.php';
                                     <li><strong>Pengeluaran lebih pantas</strong> melalui sistem keutamaan</li>
                                     <li><strong>Sokongan VIP</strong> khas dari ejen berpengalaman</li>
                                     <li>Hadiah ulang tahun & ganjaran musim perayaan terus ke akaun</li>
-                                    <li>Jemputan ke acara khas & <strong><a href="https://lpk-777.com/bonus-promosi">kejohanan slot VIP</a></strong></li>
+                                    <li>Jemputan ke acara khas & <a href="https://lpk-777.com/bonus-promosi"><strong>kejohanan slot VIP</strong></a></li>
                                 </ul>
                                 <p>&nbsp;</p>
                                 <p>Kesetiaan anda membawa faedah sebenar, bukan sekadar cakap kosong atau tipu.</p>
@@ -525,7 +525,7 @@ include '../inc/functions.php';
                                     Ikuti langkah ini untuk melihat status semasa:
                                 </p>
                                 <ol>
-                                    <li>Log masuk akaun <strong><a href="https://lpk-777.com">LPK777</a></strong></li>
+                                    <li>Log masuk akaun <a href="https://lpk-777.com"><strong>LPK777</strong></a></li>
                                     <li>Pergi ke “Profil Saya”</li>
                                     <li>Klik tab “Status VIP” atau “Kesetiaan”</li>
                                 </ol>
@@ -553,13 +553,13 @@ include '../inc/functions.php';
 
                                 <h2>Sokongan Peralihan VIP: Kekalkan Status Anda</h2>
                                 <p>
-                                    Bagi pemain yang sudah bergelar VIP di platform lain, LPK777 menawarkan <strong>sokongan peralihan status</strong> yang membolehkan anda terus menikmati keistimewaan VIP tanpa perlu mula dari bawah. Anda hanya perlu buktikan status VIP anda terdahulu kepada pasukan sokongan, dan kami akan menyesuaikan tahap anda agar setanding atau lebih baik. Ini adalah cara kami menghargai pemain berpengalaman dan memastikan peralihan ke <strong><a href="https://lpk-777.com/slot">platform slot LPK777</a></strong> lebih lancar dan berbaloi.
+                                    Bagi pemain yang sudah bergelar VIP di platform lain, LPK777 menawarkan <strong>sokongan peralihan status</strong> yang membolehkan anda terus menikmati keistimewaan VIP tanpa perlu mula dari bawah. Anda hanya perlu buktikan status VIP anda terdahulu kepada pasukan sokongan, dan kami akan menyesuaikan tahap anda agar setanding atau lebih baik. Ini adalah cara kami menghargai pemain berpengalaman dan memastikan peralihan ke <a href="https://lpk-777.com/slot"><strong>platform slot LPK777</strong></a> lebih lancar dan berbaloi.
                                 </p>
                                 <p>&nbsp;</p>
 
                                 <h2>Jangan Tunggu – Mulakan Perjalanan VIP Anda Sekarang</h2>
                                 <p>
-                                    Setiap pusingan membawa anda lebih dekat kepada ganjaran hebat. Tak kira main hari-hari atau sekali-sekala, kesetiaan anda akan dihargai. <strong><a href="https://lpk-777.com/vip">Program VIP LPK777</a></strong> dibina untuk memberi ganjaran sebenar – bukan sekadar gelaran kosong.
+                                    Setiap pusingan membawa anda lebih dekat kepada ganjaran hebat. Tak kira main hari-hari atau sekali-sekala, kesetiaan anda akan dihargai. <a href="https://lpk-777.com/vip"><strong>Program VIP LPK777</strong></a> dibina untuk memberi ganjaran sebenar – bukan sekadar gelaran kosong.
                                 </p>
                                 <p>&nbsp;</p>
                                 <p>Log masuk, main, dan naik ke tahap yang anda layak!</p>
@@ -674,7 +674,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse08" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Biasanya sebagai bonus kredit atau <strong><a href="https://lpk-777.com/slot">putaran percuma slot</a></strong>, bergantung kepada tawaran.
+                                            Biasanya sebagai bonus kredit atau <a href="https://lpk-777.com/slot"><strong>putaran percuma slot</strong></a>, bergantung kepada tawaran.
                                         </div>
                                     </div>
                                 </div>
@@ -700,7 +700,7 @@ include '../inc/functions.php';
                                     </h3>
                                     <div id="collapse10" class="accordion-collapse collapse" data-bs-parent="#accordionFAQ">
                                         <div class="accordion-body">
-                                            Ya! <strong><a href="https://lpk-777.com/bonus-promosi">Promosi VIP</a></strong> lebih tinggi nilainya dan lebih eksklusif.
+                                            Ya! <a href="https://lpk-777.com/bonus-promosi"><strong>Promosi VIP</strong></a> lebih tinggi nilainya dan lebih eksklusif.
                                         </div>
                                     </div>
                                 </div>

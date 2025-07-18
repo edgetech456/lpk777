@@ -84,10 +84,10 @@ include '../../inc/functions.php';
                                 <p>Level 33A, The Intermark, 348 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia</p>
                                 <p>&nbsp;</p>
                                 <h4>Email</h4>
-                                <p><strong><a href="mailto:support@lpk777.org">support@lpk777.org</a></strong></p>
+                                <p><a href="mailto:support@lpk777.org"><strong>support@lpk777.org</strong></a></p>
                                 <p>&nbsp;</p>
                                 <h4>Telephone</h4>
-                                <p><strong><a href="tel:+60 11-1234 5678">+60 11-1234 5678</a></strong></p>
+                                <p><a href="tel:+60 11-1234 5678"><strong>+60 11-1234 5678</strong></a></p>
                             </div>
                         </div>
                     </div>

@@ -56,6 +56,7 @@ main {
 } */
 #masthead .navbar-nav {
     gap: 0;
+    flex: 1;
 }
 #masthead .nav-item .nav-link {
     color: var(--primary-white);
@@ -114,6 +115,18 @@ main {
     opacity: 1;
     visibility: visible;
 }
+#masthead .navbar-collapse .navbar-collapse-inner {
+    display: flex;
+    flex-direction: column;
+    opacity: 0;
+    visibility: hidden;
+    height: 100%;
+    max-height: 100vh;
+}
+#masthead .navbar-collapse.show .navbar-collapse-inner {
+    opacity: 1;
+    visibility: visible;
+}
 #masthead .navbar-close {
     width: 24px;
     height: 24px;
@@ -141,6 +154,23 @@ main {
 }
 #masthead .navbar-close::after {
     transform: translate(-50%, -50%) rotate(-45deg);
+}
+#masthead .navbar-nav .nav-item.perjudian-bertanggungjawab::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: -2px;
+    left: 1.5rem;
+    background-color: #fff;
+    width: calc( 100% - 3rem );
+    height: 1px;
+    transform: translateY(-50%);
+}
+#masthead .navbar-nav .nav-item.nav-item-6 {
+    padding-bottom: 8px;
+}
+#masthead .navbar-nav .nav-item.nav-item-7 {
+    padding-top: 8px;
 }
 .navbar-collapse .title-logo {
     background-color: #292421;
@@ -192,7 +222,7 @@ h5, .h5 {
     font-size: 20px;
     line-height: 28px;
 }
-h6, .h6, p, a, li, a, th, td, input, textarea, select, label, button {
+h6, .h6, p, a, li, a, th, td, input, textarea, select, label, button, .text-p {
     font-size: 16px;
     line-height: 24px;
 }
@@ -204,7 +234,7 @@ a, a:hover, a:focus, a:visited, button, button:hover, button:focus, button:visit
 a, button, .btn, a.btn, button.btn, .share-button::before {
     transition: all 0.3s ease;
 }
-p, ul, ol {
+p, ul, ol, .text-p {
     margin-bottom: 0.5rem;
 }
 .text-editor h1 > a, .text-editor h2 > a, .text-editor h3 > a, .text-editor h4 > a, .text-editor h5 > a, .text-editor h6 > a,
@@ -219,6 +249,9 @@ p, ul, ol {
 }
 table thead tr th{
     background-color: #9db0c7!important;
+}
+table thead tr th, table thead tr td {
+    font-weight: bold;
 }
 table .fa-check{
     color: green;
@@ -737,4 +770,9 @@ a, button, .btn, a.button, button.btn {
 .top-brand .klwin .col-desc p {
     font-size: 0.75rem;
     line-height: 1.4;
+}
+.social-icon .fa {
+    font-size: 32px;
+    line-height: 32px;
+    color: var(--primary-sub);
 }
