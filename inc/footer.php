@@ -29,12 +29,12 @@
     ?>
         var global = <?php echo $localizeScripts;?>;
     </script>
-    <script type="text/javascript" id="scripts" src="<?php echo $site_base_url;?>js/scripts.js"></script>
+    <script type="text/javascript" id="scripts" src="<?php echo $site_base_url;?>js/scripts.js?v=<?php echo $version;?>"></script>
     <?php if( $page_slug == 'home' ) {
         $json_gameProvider = json_encode($gameProviders, JSON_FORCE_OBJECT);
         ?>
         <script id="scripts-home-extra">var gameProviders = <?php echo $json_gameProvider;?>;</script>
-        <script id="scripts-home" type="text/javascript" src="<?php echo $site_base_url;?>js/scripts-home.js"></script>
+        <script id="scripts-home" type="text/javascript" src="<?php echo $site_base_url;?>js/scripts-home.js?v=<?php echo $version;?>"></script>
         <?php
     } 
     ?>
