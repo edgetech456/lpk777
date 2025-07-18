@@ -217,7 +217,6 @@ include '../inc/functions.php';
                                 <p>Nota: iOS menyokong pengalaman web apk yang dioptimumkan untuk prestasi dan kemudahan pengguna.</p>
                                 <p>&nbsp;</p>
                                 <h3>Keserasian Aplikasi dan Keperluan Minimum</h3>
-                                <p>&nbsp;</p>
                                 <p>Pastikan peranti anda memenuhi spesifikasi berikut:</p>
                                 <ul>
                                     <li><strong>Android:</strong> Versi 7.0 ke atas, storan minimum 100MB</li>

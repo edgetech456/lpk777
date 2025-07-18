@@ -9,7 +9,7 @@
             <span class="text-center">Promosi</span>
         </a>
         <a href="#" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-            <img src="<?php echo $site_base_url;?>images/footer-deposit.png" class="icon img-fit" alt="Deposit">
+            <img src="<?php echo $site_base_url;?>images/footer-commission.png" class="icon img-fit" alt="Comission">
             <span class="text-center">Referrer</span>
         </a>
         <a href="<?php echo $site_base_url;?>hubungi-kami" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
