@@ -196,7 +196,7 @@ include '../inc/functions.php';
                                     <li>Melebihi had kad</li>
                                     <li>Maklumat CVV atau tarikh luput salah</li>
                                 </ul>
-                                <p>Pastikan kad anda boleh digunakan online & ada baki cukup. Kalau masih tak boleh, cuba <a href="https://lpk-777.com/kaedah-pembayaran"><strong>TNG eWallet</strong></a> atau pindahan bank.</p>
+                                <p>Pastikan kad anda boleh digunakan online & ada baki cukup. Kalau masih tak boleh, cuba TNG eWallet atau pindahan bank.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Bayar Guna TNG eWallet</h2>

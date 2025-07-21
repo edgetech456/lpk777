@@ -167,7 +167,7 @@ include '../inc/functions.php';
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Main Permainan Slot Terbaik Dalam Talian Bersama LPK777</h1>
-                                <p><a href="https://lpk-777.com"><strong>LPK777</strong></a> menawarkan barisan permainan slot yang kukuh dan direka untuk semua jenis pemain. Daripada pemain baharu hingga pemain berpengalaman, terdapat sesuatu untuk semua orang di sini. Nak chill sambil pusing-pusing reel pun boleh, nak all-out kejar jackpot pun takde hal, <a href="https://lpk-777.com/slot"><strong>platform slot LPK777</strong></a> menyediakan pengalaman permainan yang lancar dan stabil.</p>
+                                <p><a href="https://lpk-777.com"><strong>LPK777</strong></a> menawarkan barisan permainan slot yang kukuh dan direka untuk semua jenis pemain. Daripada pemain baharu hingga pemain berpengalaman, terdapat sesuatu untuk semua orang di sini. Nak chill sambil pusing-pusing reel pun boleh, nak all-out kejar jackpot pun takde hal, platform slot LPK777 menyediakan pengalaman permainan yang lancar dan stabil.</p>
                                 <p>&nbsp;</p>
                                 <p>Semua sistem di platform ini selamat, mesra pengguna, dan dimuatkan dengan pantas. Hanya pilih permainan, tekan butang spin, dan nikmati hiburan tanpa gangguan.</p>
                                 <p>&nbsp;</p>
@@ -179,7 +179,7 @@ include '../inc/functions.php';
                                     <li>Nilai RTP telus untuk setiap permainan</li>
                                     <li>Penapis pintar untuk cari permainan ikut gaya korang</li>
                                 </ul>
-                                <p>Semua ciri ini menjadikan <strong>permainan slot LPK777</strong> antara yang paling digemari oleh pemain Malaysia.</p>
+                                <p>Semua ciri ini menjadikan permainan slot LPK777 antara yang paling digemari oleh pemain Malaysia.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Jenis-Jenis Permainan Slot Yang Kena Tahu</h2>
@@ -293,7 +293,7 @@ include '../inc/functions.php';
                                 <ul>
                                     <li>Mula dengan <strong>slot volatiliti rendah</strong> untuk kemenangan lebih konsisten</li>
                                     <li>Pilih <strong>permainan RTP tinggi</strong> untuk pulangan jangka panjang</li>
-                                    <li>Guna <strong>mod demo</strong> sebelum main duit sebenar di <strong>slot demo LPK777</strong></li>
+                                    <li>Guna <strong>mod demo</strong> sebelum main duit sebenar di slot demo LPK777</li>
                                     <li>Tetapkan bajet dan patuhinya – elakkan perjudian emosi</li>
                                     <li>Jangan kejar kekalahan – rehat dulu, cuba lagi bila lebih fokus</li>
                                 </ul>

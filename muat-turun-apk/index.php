@@ -165,7 +165,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Muat Turun LPK777 Aplikasi untuk Pengalaman Slot yang Pantas dan Lancar</h1>
+                                <h1>Muat Turun LPK777 APK untuk Pengalaman Slot yang Pantas dan Lancar</h1>
                                 <p>Main permainan slot kegemaran anda bila-bila masa dengan <a href="https://lpk-777.com/muat-turun-apk"><strong>aplikasi LPK777</strong></a> yang direka khas untuk kelajuan, kemudahan dan prestasi mantap. Sama ada korang main dari tren, rehat lunch atau kat rumah, aplikasi ini beri akses segera ke semua <a href="https://lpk-777.com/slot"><strong>permainan slot</strong></a> terbaik LPK777.</p>
                                 <p>&nbsp;</p>
                                 <p>Tak perlu taip URL atau tunggu pelayar loading. Dengan satu tap sahaja, korang terus boleh mula bermain – mudah dan jimat masa.</p>
