@@ -165,7 +165,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
-                                <h1>Muat Turun Aplikasi LPK777 untuk Pengalaman Slot yang Pantas dan Lancar</h1>
+                                <h1>Muat Turun LPK777 Aplikasi untuk Pengalaman Slot yang Pantas dan Lancar</h1>
                                 <p>Main permainan slot kegemaran anda bila-bila masa dengan <a href="https://lpk-777.com/muat-turun-apk"><strong>aplikasi LPK777</strong></a> yang direka khas untuk kelajuan, kemudahan dan prestasi mantap. Sama ada korang main dari tren, rehat lunch atau kat rumah, aplikasi ini beri akses segera ke semua <a href="https://lpk-777.com/slot"><strong>permainan slot</strong></a> terbaik LPK777.</p>
                                 <p>&nbsp;</p>
                                 <p>Tak perlu taip URL atau tunggu pelayar loading. Dengan satu tap sahaja, korang terus boleh mula bermain – mudah dan jimat masa.</p>
@@ -199,7 +199,7 @@ include '../inc/functions.php';
                                 <p>Ikuti langkah mudah berikut mengikut jenis peranti anda:</p>
                                 <p><strong>Untuk Pengguna Android:</strong></p>
                                 <ol>
-                                    <li>Buka pelayar dan lawati <a href="https://lpk-777.com/muat-turun-apk"><strong>laman rasmi LPK777</strong></a></li>
+                                    <li>Buka laman web dan pergi ke <a href="<?php echo $site_base_url;?>"><strong>LPK777 Halaman Utama</strong></a></li>
                                     <li>Klik butang <strong>Muat Turun APK</strong></li>
                                     <li>Benarkan pemasangan aplikasi daripada sumber tidak diketahui (tetapan sekali sahaja)</li>
                                     <li>Buka fail APK dan pasang aplikasi</li>
@@ -279,7 +279,7 @@ include '../inc/functions.php';
                                     <li>Log keluar automatik apabila tidak aktif</li>
                                     <li>Tiada data disimpan dalam peranti (Android / iOS)</li>
                                 </ul>
-                                <p>Akaun anda sama selamat seperti di laman web desktop, tetapi dengan akses yang lebih senang je</p>
+                                <p>Akaun anda sama selamat seperti di laman web desktop, tetapi dengan akses yang lebih senang je.</p>
                             </div>
                         </div>
                     </div>

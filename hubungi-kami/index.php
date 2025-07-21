@@ -89,7 +89,7 @@ include '../inc/functions.php';
                                 <p><a href="mailto:win4u66@gmail.com"><strong>win4u66@gmail.com</strong></a></p>
                                 <p>&nbsp;</p>
                                 <h4>Telefon</h4>
-                                <p><a href="tel:+60 11-1234 5678"><strong>+60 11-1234 5678</strong></a></p>
+                                <p><a href="tel:+60143507586"><strong>+6014-350 7586</strong></a></p>
                             </div>
                         </div>
                     </div>

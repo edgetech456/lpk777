@@ -179,21 +179,21 @@ include '../inc/functions.php';
                                     <li>Nilai RTP telus untuk setiap permainan</li>
                                     <li>Penapis pintar untuk cari permainan ikut gaya korang</li>
                                 </ul>
-                                <p>Semua ciri ini menjadikan <a href="https://lpk-777.com/slot"><strong>permainan slot LPK777</strong></a> antara yang paling digemari oleh pemain Malaysia.</p>
+                                <p>Semua ciri ini menjadikan <strong>permainan slot LPK777</strong> antara yang paling digemari oleh pemain Malaysia.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Jenis-Jenis Permainan Slot Yang Kena Tahu</h2>
                                 <p class="mb-3">Kami dah susun permainan kepada beberapa kategori supaya korang senang nak pilih:</p>
-                                <h3 class="text-p"><strong>Slot Klasik</strong></h3>
+                                <h3 class="text-h4"><strong>Slot Klasik</strong></h3>
                                 <p>Yang ni mudah difahami, memberikan rasa nostalgia, dan sesuai untuk pemain yang menyukai format reel tradisional dengan simbol – simbol buah, lucky 7, bell.</p>
                                 <p>&nbsp;</p>
-                                <h3 class="text-p"><strong>Slot Video</strong></h3>
+                                <h3 class="text-h4"><strong>Slot Video</strong></h3>
                                 <p>Grafik mantap, jalan cerita tersendiri, dan pusingan bonus interaktif, sesuai untuk pemain yang suka layan style cinematic.</p>
                                 <p>&nbsp;</p>
-                                <h3 class="text-p"><strong>Slot Jackpot</strong></h3>
+                                <h3 class="text-h4"><strong>Slot Jackpot</strong></h3>
                                 <p>Game jenis ni menawarkan peluang menang besar melalui jackpot progresif atau tetap. Sekali pusing sahaja boleh mengubah segalanya.</p>
                                 <p>&nbsp;</p>
-                                <h3 class="text-p"><strong>Slot Megaways dan Berfitur Tinggi</strong></h3>
+                                <h3 class="text-h4"><strong>Slot Megaways dan Berfitur Tinggi</strong></h3>
                                 <p>Slot dengan ganjaran tinggi yang mempunyai ribuan cara untuk menang, reel bertingkat, simbol berkembang, dan banyak lagi – untuk orang yang suka aksi dan ciri permainan lanjutan.</p>
                                 <p>&nbsp;</p>
 
@@ -204,7 +204,7 @@ include '../inc/functions.php';
                                     <li><strong>Buat Deposit:</strong> Pilih kaedah pembayaran yang korang guna</li>
                                     <li><strong>Pilih Permainan:</strong> – Terokai kategori atau yang tengah trending sekarang</li>
                                 </ol>
-                                <p>Semua jenis ini tersedia di <a href="https://lpk-777.com/slot"><strong>platform permainan LPK777</strong></a> dan boleh dicuba mengikut citarasa anda.</p>
+                                <p>Semua jenis ini tersedia di <strong>platform permainan LPK777</strong> dan boleh dicuba mengikut citarasa anda.</p>
                                 <p>&nbsp;</p>
 
                                 <h2>Cuba Dulu Sebelum Bertaruh: Ketersediaan Mod Demo</h2>
@@ -293,7 +293,7 @@ include '../inc/functions.php';
                                 <ul>
                                     <li>Mula dengan <strong>slot volatiliti rendah</strong> untuk kemenangan lebih konsisten</li>
                                     <li>Pilih <strong>permainan RTP tinggi</strong> untuk pulangan jangka panjang</li>
-                                    <li>Guna <strong>mod demo</strong> sebelum main duit sebenar di <a href="https://lpk-777.com/slot"><strong>slot demo LPK777</strong></a></li>
+                                    <li>Guna <strong>mod demo</strong> sebelum main duit sebenar di <strong>slot demo LPK777</strong></li>
                                     <li>Tetapkan bajet dan patuhinya – elakkan perjudian emosi</li>
                                     <li>Jangan kejar kekalahan – rehat dulu, cuba lagi bila lebih fokus</li>
                                 </ul>

@@ -166,7 +166,6 @@ include '../inc/functions.php';
                             <div class="text-editor">
                                 <h1>Kaedah Pembayaran LPK777: Panduan Lengkap untuk Transaksi Lancar</h1>
                                 <p>&nbsp;</p>
-                                <h2>Kenapa Kaedah Pembayaran Penting di LPK777</h2>
                                 <p>Bila anda mula bermain di <a href="https://lpk-777.com"><strong>LPK777</strong></a>, perkara terakhir yang anda nak risaukan ialah cara nak deposit duit. Anda nak top-up cepat, main lancar, dan withdraw tanpa masalah, kan?</p>
                                 <p>&nbsp;</p>
                                 <p>Sebab tu penting untuk tahu kaedah pembayaran yang sesuai. Ada yang pantas, ada yang senang, ada yang caj rendah. Sama ada anda pemain baru atau dah biasa main <a href="https://lpk-777.com/slot"><strong>slot online</strong></a>, faham pilihan anda boleh jimat masa dan elak masalah kemudian hari.</p>
@@ -186,13 +185,11 @@ include '../inc/functions.php';
 
                                 <h2>Guna Kad Kredit atau Debit di LPK777</h2>
                                 <p>Kad kredit dan debit masih antara cara paling biasa untuk tambah nilai akaun anda di LPK777. Sama ada Visa atau Mastercard:</p>
-                                <ol>
+                                <ol class="mb-4">
                                     <li>Masukkan maklumat kad</li>
                                     <li>Pilih amaun deposit</li>
                                     <li>Sahkan transaksi melalui OTP dari bank</li>
                                 </ol>
-                                <p>&nbsp;</p>
-                                <p>Kad ini mudah & sesuai untuk pengguna yang biasa beli barang secara online.</p>
                                 <p><strong>Isu Biasa dengan Kad & Cara Elak:</strong></p>
                                 <ul>
                                     <li>Transaksi disekat bank kerana berkaitan perjudian</li>

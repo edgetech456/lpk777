@@ -60,9 +60,12 @@ $menu_items = [
         "url" => "hubungi-kami",
         "target" => "_self",
     ],
+];
+
+$disclaimer_items = [
     [
         "title" => "Perjudian Bertanggungjawab",
-        "url" => "perjudian-bertanggungjawab ",
+        "url" => "perjudian-bertanggungjawab",
         "target" => "_self",
     ],
     [
@@ -76,53 +79,54 @@ $menu_items = [
         "target" => "_self",
     ],
 ];
-$menu_items_en = [
-    [
-        "title" => "Slot",
-        "url" => "slot",
-        "target" => "_self",
-    ],
-    [
-        "title" => "Download APK",
-        "url" => "download-apk",
-        "target" => "_self",
-    ],
-    [
-        "title" => "VIP Programme in LPK777",
-        "url" => "vip",
-        "target" => "_self",
-    ],
-    [
-        "title" => "Payment Method",
-        "url" => "payment-method",
-        "target" => "_self",
-    ],
-    [
-        "title" => "Bonus & Promotion",
-        "url" => "bonus-promotion",
-        "target" => "_self",
-    ],
-    [
-        "title" => "Responsible Gaming",
-        "url" => "responsible-gaming",
-        "target" => "_self",
-    ],
-    [
-        "title" => "Privacy Policy",
-        "url" => "privacy-policy",
-        "target" => "_self",
-    ],
-    [
-        "title" => "Terms & Conditions",
-        "url" => "termas-conditions",
-        "target" => "_self",
-    ],
-    [
-        "title" => "Contact Us",
-        "url" => "contact-us",
-        "target" => "_self",
-    ],
-];
+
+// $menu_items_en = [
+//     [
+//         "title" => "Slot",
+//         "url" => "slot",
+//         "target" => "_self",
+//     ],
+//     [
+//         "title" => "Download APK",
+//         "url" => "download-apk",
+//         "target" => "_self",
+//     ],
+//     [
+//         "title" => "VIP Programme in LPK777",
+//         "url" => "vip",
+//         "target" => "_self",
+//     ],
+//     [
+//         "title" => "Payment Method",
+//         "url" => "payment-method",
+//         "target" => "_self",
+//     ],
+//     [
+//         "title" => "Bonus & Promotion",
+//         "url" => "bonus-promotion",
+//         "target" => "_self",
+//     ],
+//     [
+//         "title" => "Responsible Gaming",
+//         "url" => "responsible-gaming",
+//         "target" => "_self",
+//     ],
+//     [
+//         "title" => "Privacy Policy",
+//         "url" => "privacy-policy",
+//         "target" => "_self",
+//     ],
+//     [
+//         "title" => "Terms & Conditions",
+//         "url" => "termas-conditions",
+//         "target" => "_self",
+//     ],
+//     [
+//         "title" => "Contact Us",
+//         "url" => "contact-us",
+//         "target" => "_self",
+//     ],
+// ];
 $gameProviders = [
     "slot" => [
         "title" => "Web Slots",

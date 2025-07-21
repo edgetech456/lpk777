@@ -126,12 +126,12 @@ include '../inc/functions.php';
                                 <p>Pengguna baru juga mungkin layak menerima bonus tanpa deposit – hanya daftar akaun sahaja.</p>
                                 <ul>
                                     <li>Tak perlu deposit untuk tuntut</li>
-                                    <li>Baik untuk uji <a href="https://lpk-777.com"><strong>platform LPK777</strong></a> sebelum guna duit sendiri</li>
+                                    <li>Baik untuk uji <strong>platform LPK777</strong> sebelum guna duit sendiri</li>
                                     <li>Satu akaun seorang sahaja</li>
                                     <li>Tertakluk kepada syarat taruhan asas</li>
                                 </ul>
                                 <p>
-                                    Bonus tanpa deposit ini biasanya bernilai antara RM5 hingga RM20 – cukup untuk mencuba <a href="https://lpk-777.com/slot"><strong>slot popular LPK777</strong></a> tanpa sebarang risiko kewangan. Ia juga bebas caj tersembunyi, dan semua klaim dibuat melalui sistem yang selamat dan mudah kawal dari papan pemuka anda.
+                                    Bonus tanpa deposit ini biasanya bernilai antara RM5 hingga RM20 – cukup untuk mencuba <strong>slot popular LPK777</strong> tanpa sebarang risiko kewangan. Ia juga bebas caj tersembunyi, dan semua klaim dibuat melalui sistem yang selamat dan mudah kawal dari papan pemuka anda.
                                 </p>
                                 <p>&nbsp;</p>
 
