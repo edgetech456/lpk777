@@ -163,6 +163,17 @@ include '../inc/functions.php';
             <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
+                        <div class="col-12 px-3">
+                            <div class="top-brand">
+                            <?php include '..inc/top-brand.php';?>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="" id="">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="text-editor">
                                 <h1>Muat Turun LPK777 APK untuk Pengalaman Slot yang Pantas dan Lancar</h1>
