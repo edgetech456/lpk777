@@ -160,7 +160,7 @@ include '../inc/functions.php';
         <?php include '../inc/navbar.php';?>
         <main class="pt-0" id="">
             <?php include '../inc/marquee.php';?>
-            <section class="d-none" id="">
+            <section class="" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
