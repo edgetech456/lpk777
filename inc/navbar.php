@@ -10,7 +10,11 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
             </button>
             <a href="<?php echo $site_base_url;?>" class="navbar-brand">
                 <span class="d-none">Home</span>
-                <img src="<?php echo $site_base_url;?>images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit">
+                <picture>
+                    <source srcset="./images/lpk777_logo.webp" type="image/webp">
+                    <source srcset="./images/lpk777_logo.png" type="image/png">
+                    <img src="<?php echo $site_base_url;?>images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit">
+                </picture>
             </a>
             <div></div>
             <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">

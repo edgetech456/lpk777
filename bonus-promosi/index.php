@@ -21,7 +21,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk777.org/">
+        <meta property="og:url" content="https://lpk-777.com/">
         <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta property="og:site_name" content="LPK777">
@@ -35,9 +35,9 @@ include '../inc/functions.php';
         <meta property="article:tag" content="LPK777 apk download">
         <meta property="article:tag" content="download LPK888 apk">
         <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk777.org/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk777.org/">
-        <link rel="alternate" hreflang="en" href="https://lpk777.org/">
+        <link rel="canonical" href="https://lpk-777.com/">
+        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
+        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
@@ -184,7 +184,7 @@ include '../inc/functions.php';
                                 <p>Sepanjang tahun, LPK777 tawarkan promosi berdasarkan:</p>
                                 <ul>
                                     <li>Acara perayaan seperti Raya, Deepavali, Merdeka</li>
-                                    <li><a href="https://lpk777.org/bonus-promosi"><strong>Pertandingan slot atau kejohanan</strong></a></li>
+                                    <li><a href="https://lpk-777.com/bonus-promosi"><strong>Pertandingan slot atau kejohanan</strong></a></li>
                                     <li>Hadiah cabutan bertuah seperti iPhone 16 Pro Max</li>
                                     <li>Kod promo masa terhad</li>
                                 </ul>

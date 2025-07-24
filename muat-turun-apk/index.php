@@ -21,7 +21,7 @@ include '../inc/functions.php';
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk777.org/">
+        <meta property="og:url" content="https://lpk-777.com/">
         <meta property="og:title" content="LPK777 – Muat Turun Aplikasi LPK777">
         <meta property="og:description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta property="og:site_name" content="LPK777">
@@ -35,9 +35,9 @@ include '../inc/functions.php';
         <meta property="article:tag" content="LPK777 apk download">
         <meta property="article:tag" content="download LPK888 apk">
         <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk777.org/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk777.org/">
-        <link rel="alternate" hreflang="en" href="https://lpk777.org/">
+        <link rel="canonical" href="https://lpk-777.com/">
+        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
+        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
