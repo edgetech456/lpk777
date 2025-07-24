@@ -322,7 +322,7 @@ a, button, .btn, a.button, button.btn {
 }
 .navbar-brand {
     display: block;
-    width: 55px;
+    width: 80px;
 }
 .navbar-toggler {
     display: flex;
