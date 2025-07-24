@@ -1,5 +1,5 @@
 <footer class="footer w-100 fixed-bottom" id="mastfoot">
-    <div class="row px-4 py-2 m-auto w-100">
+    <div class="row px-3 px-md-4 py-2 m-auto w-100">
         <a href="<?php echo $site_base_url;?>" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
             <img src="<?php echo $site_base_url;?>images/footer-home.png" class="icon img-fit" alt="Halaman Utama">
             <span class="text-center">Halaman Utama</span>

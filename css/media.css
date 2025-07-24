@@ -64,6 +64,10 @@
         height: 120px;
         margin-top: -60px;
     }
+    .footer span{
+        font-size: 14px;
+        line-height: 20px;
+    }
     .footer .social-media {
         gap: 20px;
     }
