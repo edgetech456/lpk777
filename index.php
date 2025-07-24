@@ -11,6 +11,7 @@ include 'inc/functions.php';
         <meta charset="UTF-8">
         <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
         <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
@@ -35,6 +36,11 @@ include 'inc/functions.php';
         <meta property="article:tag" content="LPK777 apk download">
         <meta property="article:tag" content="download LPK888 apk">
         <meta property="article:tag" content="LPK777 casino">
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia"/>
+        <meta name="twitter:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti."/>
+        <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.png"/>
         <link rel="canonical" href="https://lpk777.org/">
         <link rel="alternate" hreflang="x-default" href="https://lpk777.org/">
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
