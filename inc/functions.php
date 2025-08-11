@@ -398,10 +398,10 @@ $gameProviders = [
     ],
 ];
 $top_brands = [
-    "win4u" => [
-        "title" => "WIN4U",
-        "description" => "120% First Deposit Bonus",
-        "url" => "https://www.win4u.asia/m/register?affiliateCode=win4u0010",
+    "winbebas" => [
+        "title" => "WINBEBAS",
+        "description" => "Monthly Deposit: Win Up to MYR77,777",
+        "url" => "https://www.winbebas.com/register/?affiliateCode=wbbseo1",
     ],
     "winboleh" => [
         "title" => "Winboleh",
