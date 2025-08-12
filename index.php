@@ -221,14 +221,23 @@ include 'inc/functions.php';
                     </div>
                 </div>
             </section>
+            <section class="p-0 pb-2" id="banner">
+                <div class="container-fluid">
+                    <div class="row justify-content-center">
+                        <div class="col-12 px-3">
+                            <img class="w-100" src="images/lpk777_login-daily-win-myr88-online-casino-malaysia.webp" alt="promo banner">
+                        </div>
+                    </div>
+                </div>
+            </section>
             <section class="section-login py-0" id="">
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-4">
                             <div class="d-flex flex-wrap p-3 userprofile-container w-100 mt-3" id="userProfileModule">
                                 <div class="d-flex flex-wrap p-0 m-0 w-100 justify-content-between mb-3">
-                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="#">Daftar</a>
-                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="#">Log Masuk</a>
+                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5">Daftar</a>
+                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5">Log Masuk</a>
                                 </div>
                                 <div class="d-flex m-0 p-0 w-100">
                                     <div class="col-7 px-0 pe-2">
@@ -245,13 +254,13 @@ include 'inc/functions.php';
                                     </div>
                                     <div class="col-5 px-0 ">
                                         <div class="row m-0 p-0 w-100">
-                                            <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://kayabet888.com/my-wallet?tab=deposit">
+                                            <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
                                                     <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
-                                            <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://kayabet888.com/my-wallet?tab=withdraw">
+                                            <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
                                                     <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
@@ -264,7 +273,7 @@ include 'inc/functions.php';
                                                 </div>
                                             </a>
                                             
-                                            <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://kayabet888.com/login">
+                                            <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://www.winbebas.com/register/?affiliateCode=wbbseo5" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
                                                     <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Segar Semula</span>

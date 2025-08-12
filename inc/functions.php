@@ -400,8 +400,8 @@ $gameProviders = [
 $top_brands = [
     "winbebas" => [
         "title" => "WINBEBAS",
-        "description" => "Monthly Deposit: Win Up to MYR77,777",
-        "url" => "https://www.winbebas.com/register/?affiliateCode=wbbseo1",
+        "description" => "Login Daily and Win Up to RM88",
+        "url" => "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
     ],
     "winboleh" => [
         "title" => "Winboleh",

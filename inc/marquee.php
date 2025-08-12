@@ -3,6 +3,6 @@
         <img src="images/bell.png" width="18px" class="bell">
     </div>
     <div class="col" style="overflow:hidden;">
-        <span class="h-100" width="90%"><strong>Deposit Setiap Bulan & Sertai Lucky Draw Bawa Pulang Sehingga MYR77,777</strong></span>
+        <span class="h-100" width="90%"><strong>🎁 Login LPK777 setiap hari & menang sehingga RM88! Sertai VIP hari ini, log masuk setiap hari dan rebut peluang bawa pulang hadiah tunai lumayan. Jangan lepaskan peluang kali ini!</strong></span>
     </div>
 </div>
