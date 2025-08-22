@@ -5,7 +5,7 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
         <title>LPK777 – Hubungi Kami</title>

@@ -6,7 +6,7 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
         <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
@@ -94,8 +94,8 @@ include '../inc/functions.php';
                                 <h2>Sokongan Untuk Isu Ketagihan Judi</h2>
                                 <p>Jika anda atau seseorang yang anda kenali menghadapi masalah perjudian, pertimbangkan untuk menghubungi organisasi berikut:</p>
                                 <ul>
-                                    <li>Be Gamble Aware (<a href="http://www.begambleaware.org"><strong>www.begambleaware.org</strong></a>)</li>
-                                    <li>GamCare (<a href="http://www.gamcare.org.uk"><strong>www.gamcare.org.uk</strong></a>)</li>
+                                    <li>Be Gamble Aware (<a href="http://www.begambleaware.org" rel="nofollow noreferrer noopener"><strong>www.begambleaware.org</strong></a>)</li>
+                                    <li>GamCare (<a href="http://www.gamcare.org.uk" rel="nofollow noreferrer noopener"><strong>www.gamcare.org.uk</strong></a>)</li>
                                 </ul>
                                 <p>&nbsp;</p>
                                 <p>LPK777 menggalakkan persekitaran yang selamat dan tidak bertujuan sebagai sumber pendapatan. Sila berjudi secara bertanggungjawab.</p>

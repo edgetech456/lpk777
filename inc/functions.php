@@ -401,7 +401,7 @@ $top_brands = [
     "winbebas" => [
         "title" => "WINBEBAS",
         "description" => "Login Daily and Win Up to RM88",
-        "url" => "https://www.winbebas.com/register/?affiliateCode=wbbseo5",
+        "url" => "https://tinyurl.com/3dtynkpj",
     ],
     "winboleh" => [
         "title" => "Winboleh",

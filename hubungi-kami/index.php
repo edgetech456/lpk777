@@ -6,7 +6,7 @@ $page_thumbnail = "https://example.com/image.jpg";
 include '../inc/functions.php';
 ?>
 <!DOCTYPE html>
-<html lang="en-MY" dir="ltr">
+<html lang="ms-MY" dir="ltr">
     <head>
         <meta charset="UTF-8">
         <title>LPK777 – Hubungi Kami</title>
@@ -74,10 +74,10 @@ include '../inc/functions.php';
                                 <p>Sila hubungi kami melalui mana-mana saluran berikut:</p>
                                 <p>&nbsp;</p>
                                 <h4>Telegram</h4>
-                                <p><a href="https://t.me/Win4uasia"><strong>@Win4uasia<strong></a></p>
+                                <p><a href="https://t.me/winbebas"><strong>@winbebas<strong></a></p>
                                 <p>&nbsp;</p>
                                 <h4>Live Chat</h4>
-                                <p>(Akan datang...)</p>
+                                <p>Sokongan segera tersedia 24 jam sehari untuk menyelesaikan isu dengan cepat dan mudah.</p>
                                 <p>&nbsp;</p>
                                 <h4>Facebook</h4>
                                 <p><a href="https://bit.ly/44A4vJ9" class="social-icon facebook"><span class="d-none">Facebook</span><i class="fa fa-facebook-official"></i></a></p>
@@ -86,7 +86,7 @@ include '../inc/functions.php';
                                 <p>Level 33A, The Intermark, 348 Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia</p>
                                 <p>&nbsp;</p>
                                 <h4>Emel</h4>
-                                <p><a href="mailto:win4u66@gmail.com"><strong>win4u66@gmail.com</strong></a></p>
+                                <p><a href="mailto:winbebas@gmail.com"><strong>winbebas@gmail.com</strong></a></p>
                                 <p>&nbsp;</p>
                                 <h4>Telefon</h4>
                                 <p><a href="tel:+60143507586"><strong>+6014-350 7586</strong></a></p>
