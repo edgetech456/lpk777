@@ -8,150 +8,160 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>LPK777 – Kaedah Pembayaran LPK777</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Kaedah Pembayaran LPK777">
-        <meta name="description" content="Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://lpk-777.com/kaedah-pembayaran/">   
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="LPK777">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <title>Kaedah Pembayaran LPK777 – Deposit & Pengeluaran Mudah</title>
+        <meta name="title" content="Kaedah Pembayaran LPK777 – Deposit & Pengeluaran Mudah">
+        <meta name="description" content="Terokai kaedah pembayaran LPK777 yang selamat dan pantas termasuk perbankan dalam talian, e-wallet, dan pilihan pengeluaran segera untuk pemain Malaysia.">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Kaedah Pembayaran LPK777">
-        <meta itemprop="description" content="Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
-        <meta itemprop="image" content="">
+        <meta itemprop="name" content="Kaedah Pembayaran LPK777 – Deposit & Pengeluaran Mudah">
+        <meta itemprop="description" content="Terokai kaedah pembayaran LPK777 yang selamat dan pantas termasuk perbankan dalam talian, e-wallet, dan pilihan pengeluaran segera untuk pemain Malaysia.">
+        <meta itemprop="image" content="https://lpk-777.com/images/lpk777_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
-        <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Kaedah Pembayaran LPK777">
-        <meta property="og:description" content="Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!">
-        <meta property="og:site_name" content="LPK777">
-        <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
-        <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://lpk-777.com/kaedah-pembayaran/">
+        <meta property="og:title" content="Kaedah Pembayaran LPK777 – Deposit & Pengeluaran Mudah">
+        <meta property="og:description" content="Terokai kaedah pembayaran LPK777 yang selamat dan pantas termasuk perbankan dalam talian, e-wallet, dan pilihan pengeluaran segera untuk pemain Malaysia.">
+        <meta property="og:site_name" content="lpk-777">
+        <meta property="og:image" content="https://lpk-777.com/images/lpk777_logo.webp">
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@lpk777">
+        <meta name="twitter:title" content="Kaedah Pembayaran LPK777 – Deposit & Pengeluaran Mudah">
+        <meta name="twitter:description" content="Terokai kaedah pembayaran LPK777 yang selamat dan pantas termasuk perbankan dalam talian, e-wallet, dan pilihan pengeluaran segera untuk pemain Malaysia.">
+        <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
         <base href="<?php echo $site_base_url;?>">
-        <?php include '../inc/stylesheet.php';?><script type="application/ld+json">
+        <?php include '../inc/stylesheet.php';?>
+
+        <!-- Schema Markup -->
+        <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
-            "@type": "BlogPosting",
-            "name": "Kaedah Pembayaran LPK777",
-            "url": "https://lpk-777.com/kaedah-pembayaran",
-            "inLanguage": "ms",
-            "description": "Ketahui cara deposit & withdraw di LPK777 dengan kad, eWallet, FPX & kripto. Transaksi selamat, cepat & tanpa caj tersembunyi. Main slot tanpa gangguan!"
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://lpk-777.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Kaedah Pembayaran",
+            "item": "https://lpk-777.com/kaedah-pembayaran"
+            }
+        ]
         }
         </script>
 
         <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
-            "@type": "FAQPage",
-            "mainEntity": [
-                {
-                    "@type": "Question",
-                    "name": "Apakah cara paling cepat untuk deposit?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "TNG eWallet atau kripto – kedua-duanya segera."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Ada had minimum untuk setiap kaedah?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya. Biasanya RM10 atau RM30. Kad & pindahan bank ikut had bank."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Boleh guna kaedah sama untuk withdraw?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Boleh, tapi kad kredit kadang perlu guna pindahan bank untuk keluaran."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Apa perlu buat kalau deposit gagal?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Tunggu 10 minit. Jika masih tiada update, hubungi sokongan pelanggan."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Selamat ke guna kad kredit di LPK777?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya. Laman ini guna sistem keselamatan penyulitan dan gateway sah."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Ada caj tambahan tersembunyi?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "LPK777 tak caj lebih, tapi caj dari bank atau rangkaian kripto mungkin dikenakan."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Boleh guna TNG di desktop dan mudah alih?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Ya. Guna imbas QR pada telefon, boleh berfungsi di kedua-dua platform."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Kaedah mana paling sesuai untuk deposit kecil?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "TNG atau pindahan bank. Biasanya tiada caj tambahan."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Bagaimana nak tahu jika pembayaran berjaya?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Anda akan lihat pengesahan di skrin & baki akaun akan dikemas kini serta-merta."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Boleh tukar kaedah pembayaran bila-bila masa?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Boleh. Guna mana-mana yang paling sesuai pada masa tersebut."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Boleh guna e-wallet selain TNG untuk deposit?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Pada masa ini, LPK777 fokus kepada TNG eWallet kerana ia paling stabil dan popular. Namun, sokongan untuk e-wallet lain seperti Boost atau GrabPay mungkin ditambah pada masa akan datang."
-                    }
-                },
-                {
-                    "@type": "Question",
-                    "name": "Berapa lama pengeluaran biasanya diproses?",
-                    "acceptedAnswer": {
-                        "@type": "Answer",
-                        "text": "Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna VIP LPK777."
-                    }
-                }
-            ]
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "Apakah cara paling cepat untuk deposit?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "TNG eWallet atau kripto – kedua-duanya segera."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Ada had minimum untuk setiap kaedah?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya. Biasanya RM10 atau RM30. Kad & pindahan bank ikut had bank."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh guna kaedah sama untuk withdraw?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Boleh, tapi kad kredit kadang perlu guna pindahan bank untuk keluaran."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Apa perlu buat kalau deposit gagal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tunggu 10 minit. Jika masih tiada update, hubungi sokongan pelanggan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Selamat ke guna kad kredit di LPK777?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya. Laman ini guna sistem keselamatan penyulitan dan gateway sah."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Ada caj tambahan tersembunyi?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "LPK777 tak caj lebih, tapi caj dari bank atau rangkaian kripto mungkin dikenakan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh guna TNG di desktop dan mudah alih?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ya. Guna imbas QR pada telefon, boleh berfungsi di kedua-dua platform."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Kaedah mana paling sesuai untuk deposit kecil?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "TNG atau pindahan bank. Biasanya tiada caj tambahan."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Bagaimana nak tahu jika pembayaran berjaya?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Anda akan lihat pengesahan di skrin & baki akaun akan dikemas kini serta-merta."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh tukar kaedah pembayaran bila-bila masa?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Boleh. Guna mana-mana yang paling sesuai pada masa tersebut."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Boleh guna e-wallet selain TNG untuk deposit?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Pada masa ini, LPK777 fokus kepada TNG eWallet kerana ia paling stabil dan popular. Namun, sokongan untuk e-wallet lain seperti Boost atau GrabPay mungkin ditambah pada masa akan datang."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "Berapa lama pengeluaran biasanya diproses?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kebanyakan pengeluaran diproses dalam masa 1 hingga 2 hari bekerja, bergantung kepada kaedah yang digunakan. Kripto dan TNG mungkin lebih cepat, terutamanya jika anda pengguna VIP LPK777."
+            }
+            }
+        ]
         }
         </script>
     </head>

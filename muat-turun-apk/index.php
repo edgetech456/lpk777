@@ -8,46 +8,62 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>LPK777 – Muat Turun Aplikasi LPK777</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Muat Turun Aplikasi LPK777">
+        <link rel="canonical" href="https://lpk-777.com/muat-turun-apk/">   
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="Lpk777">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <title>Muat Turun & Main Slot Dengan Login Pantas di LPK777</title>
+        <meta name="title" content="Muat Turun & Main Slot Dengan Login Pantas di LPK777">
         <meta name="description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Muat Turun Aplikasi LPK777">
+        <meta itemprop="name" content="Muat Turun & Main Slot Dengan Login Pantas di LPK777">
         <meta itemprop="description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
-        <meta itemprop="image" content="">
+        <meta itemprop="image" content="https://lpk-777.com/images/lpk777_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
         <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Muat Turun Aplikasi LPK777">
+        <meta property="og:url" content="https://lpk-777.com/muat-turun-apk/">
+        <meta property="og:title" content="Muat Turun & Main Slot Dengan Login Pantas di LPK777">
         <meta property="og:description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
-        <meta property="og:site_name" content="LPK777">
-        <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
-        <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta property="og:site_name" content="lpk-777">
+        <meta property="og:image" content="https://lpk-777.com/images/lpk777_logo.webp">
+        <meta property="article:tag" content="muat turun lpk777 apk">
+        <meta property="article:tag" content="lpk777 app download">
+        <meta property="article:tag" content="kasino mudah alih">
+        <meta property="article:tag" content="lpk777 android apk">
+        <meta property="article:tag" content="lpk777 ios app">
+        <meta property="article:tag" content="slot mobile malaysia">
+        <meta property="article:tag" content="apk slot percuma">
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@lpk777">
+        <meta name="twitter:title" content="Muat Turun & Main Slot Dengan Login Pantas di LPK777">
+        <meta name="twitter:description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
+        <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+
+        <!-- Schema Markup -->
         <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
-            "@type": "BlogPosting",
-            "name": "Muat Turun Aplikasi LPK777",
-            "url": "https://lpk-777.com/muat-turun-apk",
-            "inLanguage": "ms",
-            "description": "Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.",
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://lpk-777.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Slot",
+            "item": "https://lpk-777.com/muat-turun-apk/"
+            }
+        ]
         }
         </script>
 

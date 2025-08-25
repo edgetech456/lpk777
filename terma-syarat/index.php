@@ -8,50 +8,55 @@ include '../inc/functions.php';
 <!DOCTYPE html>
 <html lang="ms-MY" dir="ltr">
     <head>
-        <meta charset="UTF-8">
-        <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta name="keywords" content="lpk777, lpk777 slot, lpk777 login, lpk777 pro, lpk777 app, lpk777 apk, lpk777 casino, lpk777 apk download, lpk777 muat turun, Download apk lpk777, lpk777 bonus, lpk777 promosi">
+        <link rel="canonical" href="https://lpk-777.com/terma-syarat/">   
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+        <meta name="author" content="Lpk777">
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="renderer" content="webkit"/>
+        <title>Terma & Syarat LPK777 – Peraturan Penggunaan Perkhidmatan Kami</title>
+        <meta name="title" content="Terma & Syarat LPK777 – Peraturan Penggunaan Perkhidmatan Kami">
+        <meta name="description" content="Baca terma dan syarat LPK777 sebelum menggunakan laman kami. Ketahui hak, tanggungjawab, dan peraturan penting berkaitan penggunaan platform kami.">
         <!-- Schema.org for Google -->
-        <meta itemprop="name" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta itemprop="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta itemprop="image" content="">
+        <meta itemprop="name" content="Terma & Syarat LPK777 – Peraturan Penggunaan Perkhidmatan Kami">
+        <meta itemprop="description" content="Baca terma dan syarat LPK777 sebelum menggunakan laman kami. Ketahui hak, tanggungjawab, dan peraturan penting berkaitan penggunaan platform kami.">
+        <meta itemprop="image" content="https://lpk-777.com/images/lpk777_logo.webp">
         <!-- Open Graph / Facebook -->
         <meta property="og:locale" content="ms-MY">
-        <meta property="og:type" content="article">
-        <meta property="og:url" content="https://lpk-777.com/">
-        <meta property="og:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
-        <meta property="og:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
-        <meta property="og:site_name" content="LPK777">
-        <meta property="og:image" content="">
-        <meta property="article:tag" content="LPK777">
-        <meta property="article:tag" content="LPK777 slot">
-        <meta property="article:tag" content="LPK777 login">
-        <meta property="article:tag" content="LPK777 app">
-        <meta property="article:tag" content="LPK777 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <meta property="article:tag" content="LPK777 apk download">
-        <meta property="article:tag" content="download LPK888 apk">
-        <meta property="article:tag" content="LPK777 casino">
-        <link rel="canonical" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="x-default" href="https://lpk-777.com/">
-        <link rel="alternate" hreflang="en" href="https://lpk-777.com/">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://lpk-777.com/terma-syarat/">
+        <meta property="og:title" content="Terma & Syarat LPK777 – Peraturan Penggunaan Perkhidmatan Kami">
+        <meta property="og:description" content="Baca terma dan syarat LPK777 sebelum menggunakan laman kami. Ketahui hak, tanggungjawab, dan peraturan penting berkaitan penggunaan platform kami.">
+        <meta property="og:site_name" content="lpk-777">
+        <meta property="og:image" content="https://lpk-777.com/images/lpk777_logo.webp">
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@lpk777">
+        <meta name="twitter:title" content="Terma & Syarat LPK777 – Peraturan Penggunaan Perkhidmatan Kami">
+        <meta name="twitter:description" content="Baca terma dan syarat LPK777 sebelum menggunakan laman kami. Ketahui hak, tanggungjawab, dan peraturan penting berkaitan penggunaan platform kami.">
+        <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
         <base href="<?php echo $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
+        
+        <!-- Schema Markup -->
         <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
-            "@type": "WebPage",
-            "url": "https://lpk-777.comg/terma-syarat",
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://lpk-777.com"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
             "name": "Terma & Syarat",
-            "description": "Syarat penggunaan LPK777 termasuk pendaftaran, kategori pengguna, bonus, aktiviti akaun, dan polisi keselamatan.",
-            "publisher": {
-                "@type": "Organization",
-                "name": "LPK777",
-                "url": "https://lpk777.org"
+            "item": "https://lpk-777.com/terma-syarat/"
             }
+        ]
         }
         </script>
     </head>
