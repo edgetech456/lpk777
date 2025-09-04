@@ -4,13 +4,13 @@
         foreach( $top_brands as $key => $brand ) {
             $brand_title = $brand['title'];
             $brand_desc = $brand['description'];
-            $brand_thumbnail = $site_base_url.'images/top_brand/top_brand_'.$key.'.png';
+            $brand_thumbnail = $site_base_url.'images/top_brand/top_brand_'.$key.'.webp';
             $brand_link = $brand['url'];
         $disabled = ($tb_index > 0) ? ' disabled' : '';
-    echo '<div class="top-brand-item '.$key.' p-2">
+    echo '<div class="top-brand-item w-100 '.$key.' p-2">
         <div class="top-brand-inner d-flex align-items-center justify-content-start">
             <div class="col col-header pt-3">
-                <div class="col-image"><img src="'.$brand_thumbnail.'" alt="winbebas-promo"/></div>
+                <div class="col-image"><img src="'.$brand_thumbnail.'" alt="win111-instant-cashback-5-percent"/></div>
                 <div class="col-title">'.$brand_title.'</div>
             </div>
             <div class="col col-desc pt-3">

@@ -57,7 +57,7 @@ include '../inc/functions.php';
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://lpk-777.com"
+            "item": "https://lpk-777.com/"
             },
             {
             "@type": "ListItem",

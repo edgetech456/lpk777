@@ -398,10 +398,10 @@ $gameProviders = [
     ],
 ];
 $top_brands = [
-    "winbebas" => [
-        "title" => "WINBEBAS",
+    "win111" => [
+        "title" => "WIN111",
         "description" => "Login Daily and Win Up to RM88",
-        "url" => "https://tinyurl.com/3dtynkpj",
+        "url" => "https://tinyurl.com/2whdnxb2",
     ],
     "winboleh" => [
         "title" => "Winboleh",
