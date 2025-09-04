@@ -17,7 +17,7 @@
                 <p class="mb-0">'.$brand_desc.'</p>
             </div>
             <div class="col col-cta pt-3">
-                <a href="'.$brand_link.'" class="btn btn-visit"'.$disabled.'><span>VISIT</span></a>
+                <a href="'.$brand_link.'" class="btn btn-visit" rel="nofollow noreferrer noopener"'.$disabled.'><span>VISIT</span></a>
             </div>
         </div>
     </div>';

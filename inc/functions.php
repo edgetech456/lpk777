@@ -36,7 +36,7 @@ $menu_items = [
         "target" => "_self",
     ],
     [
-        "title" => "Muat Turun Aplikasi",
+        "title" => "Muat Turun APK",
         "url" => "muat-turun-apk",
         "target" => "_self",
     ],
