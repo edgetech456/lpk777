@@ -29,7 +29,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
                             
                             $home_active = ( trim($current_url, "lpk777/") === "" ) ? ' active' : '';?>
                             <li class="nav-item home nav-item-0">
-                                <a href="<?php echo $site_base_url;?>" class="nav-link<?php echo $home_active;?>">Home</a>
+                                <a href="<?php echo $site_base_url;?>/" class="nav-link<?php echo $home_active;?>">Home</a>
                             </li>
                             <?php 
                             foreach( $menu_items as $key => $item ) {
@@ -40,7 +40,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
                                 $is_active = str_contains($current_url, $item['url']) ? ' active' : '';
                             ?>
                                 <li class="nav-item <?php echo $url;?> nav-item-<?php echo $index;?>">
-                                    <a href="<?php echo $site_base_url.$url;?>" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></a>
+                                    <a href="<?php echo $site_base_url.$url;?>/" target="<?php echo $target;?>" class="nav-link<?php echo $is_active;?>"><?php echo $title;?></a>
                                 </li>
                             <?php
                             }
@@ -56,7 +56,7 @@ $current_url = trim($_SERVER['REQUEST_URI'], "/");
                                 $dis_active = str_contains($current_url, $ditem['url']) ? ' active' : '';
                             ?>
                                 <li class="nav-item <?php echo $durl;?>">
-                                    <a href="<?php echo $site_base_url.$durl;?>" target="<?php echo $dtarget;?>" class="nav-link<?php echo $dis_active;?>"><?php echo $dtitle;?></a>
+                                    <a href="<?php echo $site_base_url.$durl;?>/" target="<?php echo $dtarget;?>" class="nav-link<?php echo $dis_active;?>"><?php echo $dtitle;?></a>
                                 </li>
                             <?php
                             }

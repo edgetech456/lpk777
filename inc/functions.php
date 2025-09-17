@@ -400,7 +400,7 @@ $gameProviders = [
 $top_brands = [
     "win111" => [
         "title" => "WIN111",
-        "description" => "Login Daily and Win Up to RM88",
+        "description" => "140% Welcome Bonus Instantly",
         "url" => "https://tinyurl.com/2whdnxb2",
     ],
     "winboleh" => [
