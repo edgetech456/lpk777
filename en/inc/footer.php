@@ -1,19 +1,19 @@
 <footer class="footer w-100 fixed-bottom" id="mastfoot">
     <div class="row px-4 py-2 m-auto w-100">
         <a href="<?php echo $site_base_url_en;?>" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-            <img src="<?php echo $site_base_url;?>images/footer-home.png" class="icon img-fit" alt="Halaman Utama">
+            <img src="<?= $site_base_url;?>/images/footer-home.png" class="icon img-fit" alt="Halaman Utama">
             <span class="text-center">Home</span>
         </a>
         <a href="<?php echo $site_base_url_en;?>bonus-promotion" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-            <img src="<?php echo $site_base_url;?>images/footer-commission.png" class="icon img-fit" alt="Referrer">
+            <img src="<?= $site_base_url;?>/images/footer-commission.png" class="icon img-fit" alt="Referrer">
             <span class="text-center">Promotion</span>
         </a>
         <a href="<?php echo $site_base_url_en;?>slot" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-            <img src="<?php echo $site_base_url;?>images/footer-deposit.png" class="icon img-fit" alt="Deposit">
+            <img src="<?= $site_base_url;?>/images/footer-deposit.png" class="icon img-fit" alt="Deposit">
             <span class="text-center">Slot</span>
         </a>
         <a href="<?php echo $site_base_url_en;?>contact-us" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-            <img src="<?php echo $site_base_url;?>images/footer-live_chat.png" class="icon img-fit" alt="Hubungi Kami">
+            <img src="<?= $site_base_url;?>/images/footer-live_chat.png" class="icon img-fit" alt="Hubungi Kami">
             <span class="text-center">Contact Us</span>
         </a>
     </div>

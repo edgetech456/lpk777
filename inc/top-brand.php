@@ -4,7 +4,7 @@
         foreach( $top_brands as $key => $brand ) {
             $brand_title = $brand['title'];
             $brand_desc = $brand['description'];
-            $brand_thumbnail = $site_base_url.'images/top_brand/top_brand_'.$key.'.webp';
+            $brand_thumbnail = $site_base_url.'/images/top_brand/top_brand_'.$key.'.webp';
             $brand_link = $brand['url'];
         $disabled = ($tb_index > 0) ? ' disabled' : '';
     echo '<div class="top-brand-item w-100 '.$key.' p-2">

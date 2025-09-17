@@ -42,7 +42,7 @@ include '../inc/functions.php';
         <meta name="twitter:title" content="Muat Turun & Main Slot Dengan Login Pantas di LPK777">
         <meta name="twitter:description" content="Muat turun LPK777 aplikasi dan nikmati permainan slot lancar, login satu sentuhan, promosi eksklusif & akses cepat ke semua game casino. Sesuai untuk platform Android & iOS.">
         <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
 
         <!-- Schema Markup -->
@@ -226,7 +226,7 @@ include '../inc/functions.php';
                                 <p>Ikuti langkah mudah berikut mengikut jenis peranti anda:</p>
                                 <p><strong>Untuk Pengguna Android:</strong></p>
                                 <ol>
-                                    <li>Buka laman web dan pergi ke <a href="<?php echo $site_base_url;?>"><strong>LPK777 Halaman Utama</strong></a></li>
+                                    <li>Buka laman web dan pergi ke <a href="<?= $site_base_url;?>"><strong>LPK777 Halaman Utama</strong></a></li>
                                     <li>Klik butang <strong>Muat Turun APK</strong></li>
                                     <li>Benarkan pemasangan aplikasi daripada sumber tidak diketahui (tetapan sekali sahaja)</li>
                                     <li>Buka fail APK dan pasang aplikasi</li>

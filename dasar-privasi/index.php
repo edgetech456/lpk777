@@ -35,7 +35,7 @@ include '../inc/functions.php';
         <meta name="twitter:title" content="Dasar Privasi LPK777 – Perlindungan Maklumat Pengguna">
         <meta name="twitter:description" content="Ketahui bagaimana LPK777 mengumpul, menggunakan dan melindungi maklumat peribadi anda. Kami komited terhadap keselamatan data dan privasi pemain kami.">
         <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
         
         <!-- Schema Markup -->
@@ -68,7 +68,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
                             <div class="top-brand">
-                            <?php include 'inc/top-brand.php';?>
+                            <?php include '../inc/top-brand.php';?>
                             </div>
                         </div>
                     </div>

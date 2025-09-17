@@ -42,7 +42,7 @@ include '../inc/functions.php';
         <meta name="twitter:title" content="LPK777 VIP | Ganjaran Eksklusif & Keistimewaan Slot Online Menanti Anda">
         <meta name="twitter:description" content="Jom sertai Program VIP LPK777 dan nikmati cashback tinggi, bonus tersuai, pengeluaran pantas & sokongan khas. Main slot & naik tahap untuk ganjaran eksklusif!">
         <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
         
         <!-- Schema Markup -->

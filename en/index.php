@@ -39,7 +39,7 @@ $language = 'en';
         <link rel="canonical" href="https://lpk777.org/">
         <link rel="alternate" hreflang="x-default" href="https://lpk777.org/">
         <link rel="alternate" hreflang="en" href="https://lpk777.org/">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
         <script type="application/ld+json">
         {
@@ -210,8 +210,8 @@ $language = 'en';
                         <div class="col-12 px-4">
                             <div class="d-flex flex-wrap p-3 userprofile-container w-100 mt-3" id="userProfileModule">
                                 <div class="d-flex flex-wrap p-0 m-0 w-100 justify-content-between mb-3">
-                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="<?php echo $site_base_url;?>">Join</a>
-                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="<?php echo $site_base_url;?>">Login</a>
+                                    <a class="btn-style text-uppercase btn-section-bg col-6 text-center" style="max-width: 48.5%;" type="button" alt="Register Button" href="<?= $site_base_url;?>">Join</a>
+                                    <a class="btn-style text-uppercase btn-primary col-6 text-center" style="max-width: 48.5%;" type="button" alt="Login Button" href="<?= $site_base_url;?>">Login</a>
                                 </div>
                                 <div class="d-flex m-0 p-0 w-100">
                                     <div class="col-7 px-0 pe-2">
@@ -230,13 +230,13 @@ $language = 'en';
                                         <div class="row m-0 p-0 w-100">
                                             <a class="btn-style btn-primary w-100" type="button" alt="Deposit Button" href="https://kayabet888.com/my-wallet?tab=deposit">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 " src="<?php echo $site_base_url;?>images/icon-deposit.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 " src="<?= $site_base_url;?>/images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
                                             <a class="btn-style btn-section-bg w-100 mt-2 " type="button" alt="withdraw Button" href="https://kayabet888.com/my-wallet?tab=withdraw">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-withdrawal.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
                                                     <div class="sequence-line">
                                                         <span> </span>
@@ -249,7 +249,7 @@ $language = 'en';
                                             
                                             <a class="btn-style btn-section-bg w-100 mt-2" type="button" alt="refresh Button" href="https://kayabet888.com/login">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-refresh.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Refresh</span>
                                                 </div>
                                             </a>

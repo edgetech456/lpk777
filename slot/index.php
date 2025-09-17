@@ -44,7 +44,7 @@ include '../inc/functions.php';
         <meta name="twitter:title" content="LPK777 | Permainan Slot Casino App No.1 di Malaysia">
         <meta name="twitter:description" content="Jom main slot online di LPK777! Cuba demo percuma, nikmati slot RTP tinggi, login senang, dan aplikasi pro. Jackpot besar dan pengalaman stabil menanti anda!">
         <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
         
         <!-- Schema Markup -->

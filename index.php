@@ -43,7 +43,7 @@ include 'inc/functions.php';
         <meta name="twitter:title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="twitter:description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
         <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include 'inc/stylesheet.php';?>
 
         <!-- Schema Markup -->
@@ -1075,7 +1075,7 @@ include 'inc/functions.php';
                 <div class="container-fluid">
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
-                            <img class="w-100" src="images/lpk777_login-daily-win-myr88-online-casino-malaysia.webp" alt="lpk777-monthly-deposit-lucky-draw">
+                            <img class="w-100" src="<?= $site_base_url;?>/images/lpk777_login-daily-win-myr88-online-casino-malaysia.webp" alt="lpk777-monthly-deposit-lucky-draw">
                         </div>
                     </div>
                 </div>
@@ -1106,13 +1106,13 @@ include 'inc/functions.php';
                                         <div class="row m-0 p-0 w-100">
                                             <a class="btn-style btn-primary w-100" rel="nofollow noreferrer noopener" type="button" alt="Deposit Button" href="https://tinyurl.com/2whdnxb2" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-deposit.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-deposit.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Deposit</span>
                                                 </div>
                                             </a>
                                             <a class="btn-style btn-section-bg w-100 mt-2" rel="nofollow noreferrer noopener" type="button" alt="withdraw Button" href="https://tinyurl.com/2whdnxb2" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-withdrawal.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-withdrawal.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Withdraw</span>
                                                     <div class="sequence-line">
                                                         <span> </span>
@@ -1125,7 +1125,7 @@ include 'inc/functions.php';
                                             
                                             <a class="btn-style btn-section-bg w-100 mt-2" rel="nofollow noreferrer noopener" type="button" alt="refresh Button" href="https://tinyurl.com/2whdnxb2" target="_blank" rel="nofollow noreferrer noopener">
                                                 <div class="d-flex align-items-center">
-                                                    <img class="col-3 px-0 filter-black-to-white" src="<?php echo $site_base_url;?>images/icon-refresh.png" alt="token" style="max-width: 11%">
+                                                    <img class="col-3 px-0 filter-black-to-white" src="<?= $site_base_url;?>/images/icon-refresh.png" alt="token" style="max-width: 11%">
                                                     <span class="col px-0 ps-2 text-0-9 text-weight-600">Segar Semula</span>
                                                 </div>
                                             </a>

@@ -35,7 +35,7 @@ include '../inc/functions.php';
         <meta name="twitter:title" content="Kaedah Pembayaran LPK777 – Deposit & Pengeluaran Mudah">
         <meta name="twitter:description" content="Terokai kaedah pembayaran LPK777 yang selamat dan pantas termasuk perbankan dalam talian, e-wallet, dan pilihan pengeluaran segera untuk pemain Malaysia.">
         <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
 
         <!-- Schema Markup -->

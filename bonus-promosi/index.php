@@ -42,7 +42,7 @@ include '../inc/functions.php';
         <meta name="twitter:title" content="LPK777 Bonus & Promosi | Tuntut Sehingga RM500 + Free Spin Hari Ini">
         <meta name="twitter:description" content="Dapatkan bonus deposit, cashback, free spin & promosi tanpa deposit di LPK777. Semua promosi telus, mudah dituntut & tiada syarat tersembunyi. Jom main & menang lebih!">
         <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
         
         <!-- Schema Markup -->

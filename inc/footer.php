@@ -1,25 +1,25 @@
 <footer class="footer w-100 fixed-bottom" id="mastfoot">
     <div class="row px-3 px-md-4 py-2 m-auto w-100">
-        <a href="<?php echo $site_base_url;?>" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-            <img src="<?php echo $site_base_url;?>images/footer-home.png" class="icon img-fit" alt="Halaman Utama">
+        <a href="<?= $site_base_url;?>" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+            <img src="<?= $site_base_url;?>/images/footer-home.png" class="icon img-fit" alt="Halaman Utama">
             <span class="text-center">Halaman Utama</span>
         </a>
-        <a href="<?php echo $site_base_url;?>bonus-promosi/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-            <img src="<?php echo $site_base_url;?>images/footer-commission.png" class="icon img-fit" alt="Referrer">
+        <a href="<?= $site_base_url;?>bonus-promosi/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+            <img src="<?= $site_base_url;?>/images/footer-commission.png" class="icon img-fit" alt="Referrer">
             <span class="text-center">Promosi</span>
         </a>
         <a href="https://tinyurl.com/2whdnxb2" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-            <img src="<?php echo $site_base_url;?>images/footer-commission.png" class="icon img-fit" alt="Comission">
+            <img src="<?= $site_base_url;?>/images/footer-commission.png" class="icon img-fit" alt="Comission">
             <span class="text-center">Referrer</span>
         </a>
-        <a href="<?php echo $site_base_url;?>hubungi-kami/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
-            <img src="<?php echo $site_base_url;?>images/footer-live_chat.png" class="icon img-fit" alt="Hubungi Kami">
+        <a href="<?= $site_base_url;?>hubungi-kami/" class="d-flex flex-column col align-items-center justify-content-center h-100 p-0">
+            <img src="<?= $site_base_url;?>/images/footer-live_chat.png" class="icon img-fit" alt="Hubungi Kami">
             <span class="text-center">Hubungi Kami</span>
         </a>
     </div>
-    <script type="text/javascript" src="<?php echo $site_base_url;?>js/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="<?= $site_base_url;?>/js/jquery-3.7.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="<?php echo $site_base_url;?>js/swiper-bundle.min.js"></script>
+    <script type="text/javascript" src="<?= $site_base_url;?>/js/swiper-bundle.min.js"></script>
     <script type="text/javascript" id="scripts-extra">
     <?php
         $localize = [
@@ -29,12 +29,12 @@
     ?>
         var global = <?php echo $localizeScripts;?>;
     </script>
-    <script type="text/javascript" id="scripts" src="<?php echo $site_base_url;?>js/scripts.js?v=<?php echo $version;?>"></script>
+    <script type="text/javascript" id="scripts" src="<?= $site_base_url;?>/js/scripts.js?v=<?php echo $version;?>"></script>
     <?php if( $page_slug == 'home' ) {
         $json_gameProvider = json_encode($gameProviders, JSON_FORCE_OBJECT);
         ?>
         <script id="scripts-home-extra">var gameProviders = <?php echo $json_gameProvider;?>;</script>
-        <script id="scripts-home" type="text/javascript" src="<?php echo $site_base_url;?>js/scripts-home.js?v=<?php echo $version;?>"></script>
+        <script id="scripts-home" type="text/javascript" src="<?= $site_base_url;?>/js/scripts-home.js?v=<?php echo $version;?>"></script>
         <?php
     } 
     ?>

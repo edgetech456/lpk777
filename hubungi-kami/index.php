@@ -36,7 +36,7 @@ include '../inc/functions.php';
         <meta name="twitter:title" content="Hubungi LPK777 – Sokongan Pelanggan 24/7 Malaysia">
         <meta name="twitter:description" content="Perlu bantuan? Hubungi pasukan sokongan pelanggan LPK777 24/7 melalui chat langsung atau e-mel. Kami sentiasa bersedia membantu anda.">
         <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
         
         <script type="application/ld+json">
@@ -69,7 +69,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
                             <div class="top-brand">
-                            <?php include 'inc/top-brand.php';?>
+                            <?php include '../inc/top-brand.php';?>
                             </div>
                         </div>
                     </div>

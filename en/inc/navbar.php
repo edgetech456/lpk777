@@ -3,16 +3,16 @@
         <div class="navbar-row">
             <button type="button" class="navbar-toggler collapsed filter-black-to-white" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="d-none">Open Mobile Menu</span>
-                <img src="<?php echo $site_base_url;?>images/icon-menu.png"/>
+                <img src="<?= $site_base_url;?>/images/icon-menu.png"/>
             </button>
             <a href="<?php echo $site_base_url_en;?>" class="navbar-brand">
                 <span class="d-none">Home</span>
-                <img src="<?php echo $site_base_url;?>images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit">
+                <img src="<?= $site_base_url;?>/images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit">
             </a>
             <div></div>
             <div class="collapse navbar-collapse justify-content-xl-end" id="main-navigation">
                 <div class="navbar-collapse-inner">
-                    <h4 class="d-block text-center p-4 py-2 title-logo"><a href="<?php echo $site_base_url_en;?>" class="d-block"><img src="<?php echo $site_base_url;?>images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit mx-auto"></a></h4>
+                    <h4 class="d-block text-center p-4 py-2 title-logo"><a href="<?php echo $site_base_url_en;?>" class="d-block"><img src="<?= $site_base_url;?>/images/lpk777_logo.png" alt="LPK777 Logo" class="img-fit mx-auto"></a></h4>
                     <button type="button" class="navbar-close" aria-label="Close menu">
                         <span class="d-none">Close Mobile Menu</span>
                     </button>

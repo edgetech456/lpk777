@@ -35,7 +35,7 @@ include '../inc/functions.php';
         <meta name="twitter:title" content="Perjudian Bertanggungjawab LPK777 – Bermain dengan Selamat & Bijak">
         <meta name="twitter:description" content="LPK777 komited kepada perjudian yang bertanggungjawab. Ketahui garis panduan, alat kawalan kendiri, dan sokongan untuk memastikan permainan yang selamat dan sihat.">
         <meta name="twitter:image" content="https://lpk-777.com/images/lpk777_logo.webp">
-        <base href="<?php echo $site_base_url;?>">
+        <base href="<?= $site_base_url;?>">
         <?php include '../inc/stylesheet.php';?>
         
         <!-- Schema Markup -->
@@ -69,7 +69,7 @@ include '../inc/functions.php';
                     <div class="row justify-content-center">
                         <div class="col-12 px-3">
                             <div class="top-brand">
-                            <?php include 'inc/top-brand.php';?>
+                            <?php include '../inc/top-brand.php';?>
                             </div>
                         </div>
                     </div>

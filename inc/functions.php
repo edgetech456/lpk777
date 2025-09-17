@@ -1,12 +1,21 @@
 <?php
 $localhost = array('127,0,0,1', 'localhost', '::1');
 if ( !in_array( $_SERVER['REMOTE_ADDR'], $localhost ) ) {
-    $site_base_url = 'https://lpk-777.com/';
-    $site_base_url_en = 'https://lpk-777.com/en/';
+    $site_base_url = 'https://lpk-777.com';
+    $site_base_url_en = 'https://lpk-777.com/en';
 }
 else {
-    $site_base_url = 'http://localhost/lpk777/';
-    $site_base_url_en = 'http://localhost/lpk777/en/';
+    if (
+        (isset($_SERVER['HTTP_HOST']) && $_SERVER['HTTP_HOST'] === 'localhost:8080') ||
+        (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME'] === 'localhost' && $_SERVER['SERVER_PORT'] == 8080)
+    ) {
+        $site_base_url = 'http://localhost:8080/lpk-777.com';
+        $site_base_url_en = 'http://localhost:8080/lpk-777.com/en';
+    }
+    else {
+        $site_base_url = 'http://localhost/lpk777.com';
+        $site_base_url_en = 'http://localhost/lpk777.com/en';
+    }
 }
 $site_title = 'LPK777';
 if( !empty($page_name) ) {
