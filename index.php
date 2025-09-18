@@ -12,8 +12,8 @@ include 'inc/functions.php';
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta content="IE=Edge" http-equiv="X-UA-Compatible">
         <meta name="author" content="Lpk777">
-        <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <meta name="renderer" content="webkit"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="renderer" content="webkit">
         <title>LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia </title>
         <meta name="title" content="LPK777 – Laman Slot Online & Pengeluaran Cepat di Malaysia">
         <meta name="description" content="Download LPK777 apk untuk main slot, deposit mudah, pengeluaran cepat, bonus harian & ganjaran VIP. Sesuai untuk semua peranti.">
